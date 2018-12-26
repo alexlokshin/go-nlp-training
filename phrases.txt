@@ -1,0 +1,537 @@
+samsung galaxy|620|accept
+digital camera|432|accept
+iphone 6|288|accept
+memory card|256|accept
+wi fi|238|accept
+galaxy s5|228|accept
+touch screen|226|accept
+accessory kit|225|accept
+built in|223|accept
+dvd player|218|accept
+retail packaging|214|accept
+digital slr|212|accept
+night vision|212|accept
+usb 2|207|accept
+wide angle|206|accept
+5s 5c|203|reject
+apple iphone|202|accept
+usb 2 0|201|accept
+lighting kit|196|reject
+blu ray|194|accept
+in one|194|reject
+full hd|193|accept
+all in|190|reject
+video camera|188|accept
+all in one|184|accept
+htc one|184|accept
+iphone 5|181|accept
+flash drive|176|accept
+samsung galaxy s5|175|accept
+ipod touch|170|accept
+screen protector|168|accept
+mp3 player|166|accept
+note 3|165|reject
+in 1|164|reject
+android 4|163|reject
+inch lcd|162|reject
+home theater|160|accept
+canon eos|156|accept
+iphone 4|155|accept
+sd card|154|accept
+cell phone|152|accept
+scanner copier|151|reject
+slr camera|148|reject
+printer scanner|145|reject
+galaxy note|145|reject
+hdmi cable|145|accept
+xbox 360|144|accept
+spotting scope|137|accept
+zoom lens|133|reject
+usb 3|132|accept
+hd video|130|accept
+usb 3 0|130|accept
+carrying case|129|accept
+s4 s3|128|reject
+cleaning cloth|128|accept
+iphone 4 4s|126|reject
+hard drive|126|accept
+instrument music|125|reject
+media player|124|accept
+card reader|124|accept
+s5 s4|124|reject
+digital slr camera|121|accept
+sim card|121|accept
+high definition|119|accept
+lcd screen|119|accept
+snap on|119|accept
+ipad mini|117|accept
+fm radio|116|accept
+micro sd|115|accept
+tablet pc|113|accept
+galaxy s5 s4|112|reject
+wireless color|112|reject
+note 2|110|reject
+band orchestra|110|reject
+5s 5c 5|109|reject
+optical zoom|109|accept
+5c 5|109|reject
+remote control|107|accept
+hd 1080p|107|accept
+protective case|106|accept
+led tv|105|accept
+4s 4|105|reject
+nintendo 3ds|105|accept
+usb sd|105|reject
+smart watch|104|accept
+vcr combo|103|reject
+ipad air|103|accept
+hard protective|102|reject
+dvd vcr|102|reject
+cleaning kit|102|accept
+samsung galaxy note|101|accept
+instrument cable|101|reject
+galaxy tab|101|accept
+snap on hard|101|reject
+on hard|101|reject
+on hard protective|100|reject
+printer scanner copier|142|accept
+snap on hard protective|100|reject
+hard protective case|100|accept
+digital video|100|accept
+on hard protective case|100|reject
+snap on hard protective case|100|accept
+s5 s4 s3|99|reject
+mount holder|98|reject
+case cover|98|reject
+angle lens|98|reject
+high speed|97|accept
+eos rebel|97|reject
+canon eos rebel|96|accept
+in dash|95|reject
+wide angle lens|95|accept
+video light|95|reject
+galaxy s3|95|reject
+camera camcorder|93|reject
+hands free|92|accept
+two way|90|accept
+4s 5|89|reject
+light kit|89|reject
+mp3 mp4|89|reject
+dslr camera|89|accept
+iphone 5s|88|accept
+wireless bluetooth|88|reject
+dual core|88|accept
+nintendo wii|88|accept
+class 10|87|accept
+dual camera|87|reject
+galaxy s5 s4 s3|87|reject
+photo studio|86|accept
+filter kit|86|accept
+car charger|86|accept
+iphone 6 plus|85|accept
+usb 2 0 flash|85|reject
+at t|85|accept
+compact system|84|accept
+usb 2 0 flash drive|84|accept
+s3 s4|84|reject
+pro audio|83|reject
+ef s|83|reject
+1080p hd|83|reject
+dust plug|83|reject
+iphone 5 5s|83|reject
+ipad 2|82|accept
+5c 5 4s|82|reject
+wii u|82|accept
+playstation 3|82|accept
+android 4 4|82|reject
+scanner copier fax|81|accept
+copier fax|81|accept
+google nexus|80|accept
+samsung galaxy s5 s4|80|reject
+case logic|79|accept
+cmos digital|78|reject
+samsung galaxy tab|78|accept
+quad core|77|accept
+slr cameras|77|reject
+color photo|76|reject
+micro usb|76|accept
+digital cameras|76|accept
+inkjet printer|75|accept
+ray disc|74|reject
+playstation vita|74|accept
+blu ray disc|74|accept
+photo video|74|reject
+led light|74|accept
+black white|73|reject
+one m8|73|reject
+playstation 4|73|accept
+lens cleaning|73|reject
+battery charger|73|accept
+camera black|72|reject
+sony playstation|72|accept
+note 4|72|reject
+packaging black|72|reject
+iphone ipad|71|reject
+samsung galaxy s3|71|accept
+photo printer|71|accept
+medium format|70|reject
+galaxy s4|70|reject
+htc one m8|70|accept
+toner cartridge|70|accept
+signal booster|69|accept
+musical instrument|68|accept
+color photo printer|67|accept
+f 3|67|reject
+samsung galaxy s5 s4 s3|67|reject
+disc player|67|reject
+video recorder|67|accept
+video studio|67|accept
+way radio|67|reject
+nikon coolpix|66|accept
+inch 1080p|66|reject
+case samsung|66|reject
+case samsung galaxy|66|reject
+f 3 5|66|reject
+google android|65|accept
+musical instrument music|65|reject
+mp digital|65|reject
+iphone 6 4|65|reject
+ac dc|64|accept
+mobile phone|64|accept
+speaker system|64|accept
+retail packaging black|64|reject
+s3 note|64|reject
+iphone 6 4 7|64|reject
+mp3 players|64|reject
+lens canon|63|reject
+system camera|63|reject
+mp cmos|63|reject
+double din|62|accept
+protective case samsung|62|reject
+protective case samsung galaxy|62|reject
+mp cmos digital|61|reject
+f 4|61|reject
+tv dvd|61|reject
+moto x|61|accept
+microfiber cleaning|60|reject
+canon powershot|60|accept
+car mount|60|accept
+compact system camera|60|reject
+google android 4|60|reject
+kindle fire|60|accept
+5c 5s|60|reject
+photography video|60|reject
+bluetooth headset|59|accept
+deluxe accessory|59|reject
+anti dust|59|accept
+camera case|59|reject
+t mobile|59|accept
+inch laptop|59|reject
+pack of|59|reject
+32gb card|59|accept
+inch screen|59|reject
+canon ef|59|reject
+dslr cameras|59|accept
+two way radio|58|accept
+photo printer scanner|58|reject
+apple iphone 6|58|accept
+non retail|58|accept
+non retail packaging|58|accept
+mp digital camera|58|reject
+sony hdr|57|accept
+s 18|57|reject
+full hd 1080p|57|accept
+cross cut|57|accept
+card slot|57|reject
+screen protectors|57|accept
+apple ipod|57|accept
+ef s 18|57|reject
+f 3 5 5|56|reject
+blu ray disc player|56|accept
+3ds xl|56|reject
+ray disc player|56|reject
+microfiber cleaning cloth|56|accept
+lcd black|56|reject
+usb cable|55|accept
+led lit|55|reject
+samsung galaxy s4|55|accept
+3d blu ray|55|accept
+boss audio|55|reject
+card case|55|reject
+macbook pro|55|accept
+camera 18|55|reject
+5s 5c 5 4s|82|reject
+dvd vcr combo|62|accept
+hard protective case samsung|62|reject
+color photo printer scanner|58|accept
+3d blu|55|reject
+s4 s3 note|54|reject
+bluetooth wireless|54|reject
+vixia hf|54|reject
+google play|54|accept
+action camera|54|accept
+right angle|54|reject
+iphone 4 4s 5|54|reject
+gopro hero|54|accept
+fire hd|54|accept
+ef s 18 55mm|53|reject
+canon vixia|53|reject
+s 18 55mm|53|reject
+iphone 5s 5c|53|reject
+accessory bundle|52|accept
+tripod mount|52|reject
+data cable|52|accept
+apple ipad|52|accept
+lens kit|52|reject
+android 4 4 kitkat|52|reject
+lcd monitor|52|accept
+player black|52|reject
+gaming keyboard|52|accept
+heavy duty|52|accept
+laser rangefinder|52|accept
+wireless color photo printer|51|accept
+projector screen|51|reject
+converter box|51|accept
+sdhc memory|51|accept
+camera 3|51|reject
+dash kit|51|reject
+telephoto lens|51|accept
+mobile hotspot|51|accept
+dvd combo|51|reject
+iphone 6 6|51|reject
+wireless color photo|51|reject
+high quality|51|accept
+radar detector|51|accept
+plus 5|50|reject
+digital slr cameras|50|accept
+metra 99|50|reject
+camera 18 55mm|50|reject
+point shoot|50|reject
+elite screens|50|reject
+inch lcd black|50|reject
+dvd recorder|50|accept
+3g 3gs|50|reject
+external battery|50|accept
+bluetooth speaker|50|accept
+cb radio|50|accept
+sony xperia|50|accept
+mp4 mp3|49|reject
+1080p full|49|reject
+wireless all|49|reject
+condenser microphone|49|accept
+flash memory|49|accept
+s2 s3|49|reject
+music brass|49|reject
+mp4 mp3 player|49|reject
+wireless all in|49|reject
+car dvr|49|reject
+instrument music brass|49|reject
+ipad 2 3|49|reject
+dvd cd|49|reject
+1080p full hd|49|accept
+card tray|48|reject
+iphone 5s 5c 5|48|reject
+cut paper|48|reject
+nokia lumia|48|accept
+wall mount|48|accept
+google play pre|48|reject
+play pre|48|reject
+sdhc memory card|48|accept
+wireless all in one|48|accept
+rifle scope|48|accept
+video lighting|48|reject
+g sensor|48|reject
+limited edition|48|accept
+60hz led|48|reject
+travel charger|48|accept
+macbook air|47|accept
+ac adapter|47|accept
+s5 s4 s3 note|47|reject
+theater system|47|accept
+ps vita|47|reject
+windows 7|47|accept
+hard case|47|accept
+recording studios|47|reject
+galaxy s5 s4 s3 note|47|reject
+band orchestra instrument|46|reject
+3d game|46|reject
+certified refurbished|46|accept
+progressive scan|46|accept
+3d game supported|46|reject
+roof prism|46|reject
+led video|46|reject
+smart led|46|reject
+orchestra instrument music|46|reject
+game supported|46|reject
+band orchestra instrument music|46|reject
+orchestra instrument|46|reject
+f 3 5 5 6|46|reject
+black silver|45|reject
+canon nikon|45|reject
+dect 6|45|reject
+dect 6 0|45|reject
+micro sd card|45|accept
+5c 5 4s 4|45|reject
+audio interface|45|accept
+4s 5 5c|45|reject
+4s 5 5c 5s|45|reject
+live recording|45|accept
+home theater system|45|accept
+full size|45|accept
+ipod iphone|45|reject
+camera 2|45|reject
+sim card tray|45|accept
+af s|45|reject
+digital analog|45|reject
+panasonic kx|45|reject
+high capacity|45|accept
+5s 5c 5 4s 4|45|reject
+studios gigs|44|reject
+live live recording studios|44|reject
+patch amp|44|reject
+live recording studios gigs|44|reject
+gigs patch amp mixer audio|44|reject
+snake live|44|reject
+live live recording|44|reject
+snake cable|44|reject
+amp mixer|44|reject
+patch amp mixer audio|44|reject
+recording studios gigs patch|44|reject
+live live|44|reject
+gigs patch amp|44|reject
+mixer audio|44|reject
+audio video|44|accept
+studios gigs patch|44|reject
+canon vixia hf|44|reject
+night vision monocular|44|reject
+snake live live|44|reject
+dual usb|44|reject
+mixer audio interface|44|reject
+hd camcorder|44|accept
+gigs patch|44|reject
+snake live live recording|44|reject
+cmos digital camera|44|accept
+recording studios gigs|44|reject
+amp mixer audio interface|44|reject
+sony psp|44|accept
+live recording studios|44|reject
+patch amp mixer|44|reject
+player band|44|reject
+amp mixer audio|44|reject
+photography studio|44|reject
+vision monocular|44|reject
+studios gigs patch amp|44|reject
+patch amp mixer audio interface|44|reject
+single din|44|accept
+one inkjet printer|43|reject
+all in one inkjet printer|43|accept
+new compatible|43|reject
+data sync|43|reject
+one inkjet|43|reject
+in one inkjet printer|43|reject
+uv cpl|43|reject
+x 11|43|reject
+action video|43|reject
+in one inkjet|43|reject
+all in one inkjet|43|reject
+led video light|43|reject
+kit canon|42|reject
+4s ipad|42|reject
+sheet cross cut|42|reject
+apple iphone 5|42|accept
+55mm f|42|reject
+lg electronics|42|accept
+replacement part|42|accept
+led lit monitor|42|accept
+sheet cross|42|reject
+watch phone|42|reject
+s4 note|42|reject
+s3 s2|42|reject
+ipad 4|42|reject
+4g lte|42|accept
+s4 s3 s2|42|reject
+lit monitor|42|reject
+f 4 5|41|reject
+usb car|41|reject
+player band orchestra instrument|41|reject
+photography photo|41|reject
+hp officejet|41|accept
+power bank|41|accept
+inch 16|41|reject
+55mm f 3 5 5|41|reject
+canon pixma|41|accept
+galaxy note 4|41|accept
+55mm f 3|41|reject
+iphone android|41|reject
+galaxy s3 s4|41|reject
+portable external|41|reject
+is stm|41|reject
+iphone 4s|41|accept
+player band orchestra|41|reject
+player band orchestra instrument music|41|reject
+nintendo ds|41|accept
+55mm f 3 5|41|reject
+led projector|41|accept
+lg g3|40|accept
+epson workforce|40|reject
+55mm is|40|reject
+lcd display|40|accept
+nintendo 3ds xl|40|accept
+bluetooth smart|40|reject
+credit card|40|accept
+texas instruments|40|accept
+stm lens|40|reject
+mount adapter|40|reject
+hd 720p|40|accept
+video camcorder|40|reject
+iphone 6 6 plus|40|reject
+rebel t5i|40|reject
+quick release|40|accept
+nexus 5|40|accept
+smart phones|40|accept
+cameras camcorders|39|reject
+ray player|39|reject
+note 2 note 3|39|reject
+studio lighting|39|reject
+softbox lighting|39|reject
+galaxy note 3|39|accept
+kit uv|39|reject
+note 3 2|39|reject
+pc laptop|39|accept
+filter kit uv|39|reject
+player receiver|39|reject
+iphone 5 5s 5c|39|reject
+blu ray player|39|reject
+continuous lighting|39|reject
+lens hood|39|reject
+logitech wireless|39|reject
+note 2 note|39|reject
+on stage|38|reject
+security camera|38|accept
+memory stick|38|accept
+monochrome printer|38|accept
+s4 s5|38|reject
+accessories kit|38|accept
+60hz led tv|38|accept
+iphone samsung|38|reject
+battery pack|38|accept
+wireless mouse|38|accept
+tempered glass|38|accept
+patch cable|38|accept
+kitkat tablet|38|reject
+streaming media|38|accept
+stylus pen|38|accept
+channel 1|38|reject
+tft lcd|38|reject
+keyboard mouse|38|reject
+smart wifi|37|reject
+projection screen|37|accept
+ipad ipod|37|reject
+workforce wf|37|reject
+telephoto zoom|37|reject
+smart led tv|37|accept
+screen led lit|37|reject
+telephoto zoom lens|37|accept
+streaming media player|37|accept
+apple iphone 4|37|accept
+bundle kit|37|reject

@@ -6,6 +6,7 @@ import (
 	"log"
 	"os"
 	"sort"
+	"strconv"
 	"strings"
 
 	valid "github.com/asaskevich/govalidator"
@@ -67,11 +68,36 @@ func accumulate(phrases map[string]int, temp map[string]int) {
 	}
 }
 
+func readKnownPhrases(fileName string) map[string]int {
+	phrases := make(map[string]int)
+	file, err := os.Open(fileName)
+	if err != nil {
+		return phrases
+	}
+	defer file.Close()
+	scanner := bufio.NewScanner(file)
+
+	for scanner.Scan() {
+
+		text := scanner.Text()
+		parts := strings.Split(text, "|")
+		if len(text) > 0 {
+			v, err := strconv.Atoi(parts[1])
+			if err == nil {
+				phrases[parts[0]] = v
+			}
+		}
+	}
+	return phrases
+}
+
 type Product map[string]string
 
 // Data can be found https://github.com/dariusk/corpora/tree/master/data
 // String tokenizer https://blog.gopheracademy.com/advent-2017/lexmachine-advent/
 func main() {
+	knownPhrases := readKnownPhrases("phrases.txt")
+
 	stopwords = make(map[string]int)
 	stopwords["for"] = 0
 	stopwords["with"] = 0
@@ -81,13 +107,6 @@ func main() {
 	t := tokenizer.NewWithSeparator("\t\n\r ,.:?\"!;()\\/\\-\\+\\&")
 	phrases := make(map[string]int)
 
-	// title := "SMSL Sanskrit 24bit192kHz USB/Coaxial/Optical Digital To Analog Audio Decoder Converter (silver) ,by Gemini Doctor"
-	// tokens := tokenize(t, title)
-	// phrases := generatePhrases(tokens, 3)
-	// for k, v := range phrases {
-	// 	fmt.Printf("%s, %d\n", k, v)
-	// }
-
 	file, err := os.Open("dataset.txt")
 	if err != nil {
 		log.Fatal(err)
@@ -95,16 +114,14 @@ func main() {
 	defer file.Close()
 
 	scanner := bufio.NewScanner(file)
-	//products := []Product{}
 	product := Product{}
 	for scanner.Scan() {
 
 		text := scanner.Text()
 		if len(text) == 0 {
 			if len(product) > 0 {
-				//fmt.Printf("%s\n", product["Title"])
 				tokens := tokenize(t, product["Title"])
-				subPhrases := generatePhrases(tokens, 3)
+				subPhrases := generatePhrases(tokens, 5)
 				accumulate(phrases, subPhrases)
 			}
 			product = nil
@@ -117,7 +134,6 @@ func main() {
 		} else {
 			product[pair[0]] = pair[1]
 		}
-		//fmt.Println(scanner.Text())
 	}
 
 	if err := scanner.Err(); err != nil {
@@ -133,13 +149,32 @@ func main() {
 		return ss[i].Value > ss[j].Value
 	})
 
-	counter := 0
+	f, err := os.OpenFile("phrases.txt", os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
+	if err != nil {
+		panic(err)
+	}
+
+	defer f.Close()
+
 	for _, kv := range ss {
-		fmt.Printf("%s, %d\n", kv.Key, kv.Value)
-		if counter > 200 {
+		_, present := knownPhrases[kv.Key]
+		if present {
+			continue
+		}
+		//fmt.Printf("%s, %d\n", kv.Key, kv.Value)
+		fmt.Printf("%s?\n", kv.Key)
+		var input string
+		fmt.Scanln(&input)
+
+		if "y" == input {
+			f.WriteString(fmt.Sprintf("%s|%d|accept\n", kv.Key, kv.Value))
+		}
+		if "n" == input {
+			f.WriteString(fmt.Sprintf("%s|%d|reject\n", kv.Key, kv.Value))
+		}
+		if "exit" == input {
 			break
 		}
-		counter++
 	}
 
 	fmt.Printf("Done.\n")
