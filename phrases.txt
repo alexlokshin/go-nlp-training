@@ -535,3 +535,358 @@ telephoto zoom lens|37|accept
 streaming media player|37|accept
 apple iphone 4|37|accept
 bundle kit|37|reject
+feet long|47|reject
+4th generation|45|accept
+gigs patch amp mixer|44|reject
+kit includes|37|reject
+filter kit uv cpl|37|reject
+screen led|37|reject
+kit uv cpl|37|reject
+smartphones tablets|37|reject
+2x telephoto|37|reject
+samsung galaxy s3 s4|37|reject
+720p 60hz|37|reject
+tab 4|37|reject
+mp3 player receiver|37|reject
+card battery|37|reject
+anti dust plug|37|reject
+zoom 3|37|reject
+opera glasses|37|accept
+motorola moto|37|reject
+android 4 4 kitkat tablet|36|reject
+kitkat tablet pc|36|reject
+case samsung galaxy s5|36|reject
+ds lite|36|reject
+sandisk cruzer|36|accept
+iphone 3g|36|accept
+slr camera 18|36|reject
+digital slr camera 18|36|reject
+android samsung|36|reject
+dual band|36|accept
+dell optiplex|36|accept
+power supply|36|accept
+seismic audio|36|reject
+interchangeable lens|36|accept
+player fm|36|reject
+day night|36|reject
+usb data|36|reject
+google android 4 4|36|reject
+phone holder|36|accept
+rechargeable battery|36|accept
+lens black|36|reject
+video lighting kit|36|accept
+micro hdmi|36|accept
+usb car charger|35|accept
+iphone 5s 5c 5 4s|35|reject
+audio adapter|35|accept
+tripod mount adapter|35|accept
+720p hd|35|accept
+table top|35|accept
+uv cpl fld|35|reject
+shoulder mount|35|accept
+inch screen led|35|reject
+hi fi|35|accept
+s2 s3 s4|35|reject
+cpl fld|35|reject
+screen led lit monitor|35|reject
+cover case|35|reject
+inch 720p|35|reject
+plus 5s|35|reject
+multi touch|35|accept
+micro sd tf|35|reject
+audio effects|35|accept
+player fm radio|35|reject
+home button|35|accept
+sd tf|35|reject
+portable mini|35|reject
+usb flash|35|reject
+player 1|35|reject
+s3 s4 s5|35|reject
+long serviceable|34|reject
+plus 5 5|34|reject
+ends pro|34|reject
+orchestra snap on hard protective|34|reject
+tripod kit|34|reject
+orchestra snap on|34|reject
+case star|34|reject
+serviceable ends pro audio effects|34|reject
+audio effects snake|34|reject
+effects snake live live|34|reject
+blu ray dvd|34|reject
+bluetooth 4|34|accept
+ray dvd|35|reject
+camera ef|35|reject
+video glasses|35|reject
+inch screen led lit|35|reject
+serviceable ends pro|34|reject
+ends pro audio|34|reject
+pro audio effects snake|34|reject
+ends pro audio effects|34|reject
+serviceable ends pro audio|34|reject
+feet long serviceable|34|reject
+light stand|34|reject
+long serviceable ends pro|34|reject
+orchestra snap|34|reject
+feet long serviceable ends|34|reject
+ends pro audio effects snake|34|reject
+effects snake|34|reject
+mp cmos digital camera|34|reject
+audio converter|34|accept
+channel 1 4 trs|34|reject
+long serviceable ends pro audio|34|reject
+band orchestra snap on|34|reject
+long serviceable ends|34|reject
+in ear|34|reject
+lens cleaning kit|34|accept
+audio effects snake live|34|reject
+windows 8|34|accept
+band orchestra snap|34|reject
+effects snake live|34|reject
+microscope wf10x|34|reject
+pro audio effects|34|accept
+serviceable ends|34|reject
+feet long serviceable ends pro|34|reject
+cd usb|34|reject
+deluxe accessory kit|34|accept
+channel 1 4|34|reject
+band orchestra snap on hard|34|reject
+clear screen|34|reject
+sd mp4|33|reject
+android 4 2|33|reject
+4s 5 5s|33|reject
+inch screen led lit monitor|33|reject
+lg g2|33|accept
+guitar bass|33|accept
+filter kit uv cpl fld|33|reject
+kit uv cpl fld|33|reject
+support system|33|accept
+ear jack|33|accept
+camera hd|33|reject
+camcorder black|33|reject
+hero 3|33|accept
+shock mount|33|accept
+eos rebel t5i|33|accept
+sd mp4 mp3 player|33|reject
+micro sdhc|33|accept
+nexus 4|33|accept
+eject pin|33|reject
+power adapter|33|accept
+canon eos rebel t5i|33|accept
+cmos digital slr|33|reject
+recorder vcr|33|reject
+nintendo wii u|33|accept
+orchestra snap on hard|34|reject
+action video camera|33|accept
+desktop computer|33|accept
+usb sd mp4|32|reject
+handycam camcorder|32|accept
+bluetooth 4 0|32|accept
+plus 5s 5c|32|reject
+usb sd mp4 mp3|32|reject
+ipod nano|32|accept
+300mm f|32|reject
+camera ef s 18|32|reject
+video recording|32|accept
+wall calendar|32|accept
+wireless all in one color|32|reject
+one color|32|reject
+iphone ipod|32|reject
+tf card|32|accept
+air ipad|32|reject
+monochrome printer scanner|32|accept
+studio video|32|reject
+mounting kit|32|accept
+sony handycam|32|accept
+graphics more|32|reject
+camera ef s|32|reject
+1080p 60hz|32|accept
+slr camera 18 55mm|32|reject
+t4i t3i|32|reject
+300mm f 4|32|reject
+samsung hmx|32|reject
+in one color|32|reject
+smart phone|32|accept
+usb sd mp4 mp3 player|32|reject
+all in one color|32|reject
+note 3 htc|32|reject
+2nd gen|32|accept
+satellite tv|31|accept
+camcorder 2|31|reject
+prism binocular|31|accept
+iphone 4 4s 5 5s|31|reject
+is ii|31|reject
+starter kit|31|accept
+bundle 32gb|31|reject
+lens cap|31|accept
+samsung galaxy note 4|31|accept
+inch 16 9|31|reject
+radar laser|31|reject
+ipad 2 3 4|31|reject
+am fm|31|accept
+mp compact|31|reject
+camera body|31|accept
+wd my|31|reject
+video camera camcorder|31|reject
+cinema theater|31|reject
+v4ink �|31|reject
+camera lens|31|accept
+hd clear|31|reject
+hmx f90|31|reject
+pro series|31|reject
+cd usb sd|31|reject
+laptop notebook|31|accept
+ipad air ipad|31|reject
+tripod accessory|31|reject
+suction cup|30|accept
+instruments band|30|reject
+carry case|30|accept
+ef 75|30|reject
+lg optimus|30|accept
+t5i t4i|30|reject
+iphone 6 plus 5|30|reject
+ef 75 300mm|30|reject
+lighting light|30|reject
+musical instrument music brass|30|reject
+s5 note|30|reject
+studio continuous|30|reject
+tv dvd combo|30|accept
+magicfiber microfiber|30|reject
+bushnell powerview|30|reject
+5c 4s|30|reject
+pre load|30|reject
+instruments band orchestra|30|reject
+flat panel|30|accept
+audio cable|30|accept
+card shredder|30|reject
+gps tracker|30|accept
+plus 5s 5c 5|30|reject
+photography video studio|30|reject
+nand flash|30|reject
+camera 3 inch|30|reject
+apple ipod touch|30|accept
+nikon d3200|30|accept
+bluetooth smart watch|30|accept
+play pre load|30|reject
+1080p hd video|30|accept
+studio recording|30|accept
+f 4 5 6|30|reject
+credit card shredder|30|accept
+google play pre load|30|reject
+sports action|30|reject
+headset headphone|29|reject
+samsung hmx f90|29|reject
+portable speaker|29|accept
+newest model|29|accept
+sd card slot|29|accept
+instruments ti|29|reject
+hd digital|29|reject
+dvd cd usb sd mp4|29|reject
+dvd cd usb sd|29|reject
+dvd recorder vcr|29|reject
+optical mouse|29|accept
+instrument music strings band orchestra|29|reject
+s3 note 3|29|reject
+inch 720p 60hz|29|reject
+instrument music strings|29|reject
+mp4 player|29|accept
+cd usb sd mp4|29|reject
+fisheye lens|29|accept
+epson workforce wf|29|reject
+music strings band|29|reject
+kingston digital|29|reject
+full hd video|29|accept
+protective case htc one|29|accept
+musical instrument music strings|29|reject
+strings band|29|reject
+cd usb sd mp4 mp3|29|reject
+camera video|29|reject
+ultra slim|29|accept
+dvd cd usb|29|reject
+case htc|29|reject
+music strings band orchestra|29|reject
+camera kit|29|accept
+s3 s4 note|29|reject
+apple macbook|29|accept
+instrument music strings band|29|reject
+musical instrument music strings band|29|reject
+protective case htc|29|reject
+iphone 6 4 7 inch|29|reject
+case htc one|29|reject
+music strings|29|reject
+texas instruments ti|29|reject
+external hard|29|reject
+surround sound|29|accept
+s5 s4 s3 s2|29|reject
+mini ipad|29|reject
+samsung bd|29|reject
+case black|29|reject
+strings band orchestra|29|reject
+shoot digital|28|reject
+sony alpha|28|reject
+portable wireless|28|reject
+t5i t4i t3i|28|reject
+4ghz wireless|28|reject
+earphone jack|28|accept
+brother printer|28|accept
+dash single|28|reject
+5d mark|28|reject
+3gs 4|28|reject
+mount bracket|28|accept
+hp laserjet|28|accept
+google android 4 4 kitkat|28|reject
+720p 60hz led|28|reject
+apple iphone 4 4s|28|reject
+charging cable|28|accept
+portable dvd|28|reject
+external hard drive|28|accept
+iphone 5c|28|accept
+dash single din|28|reject
+accessories bundle|28|accept
+usb flash drive|28|accept
+document scanner|28|accept
+cordless phone|28|accept
+core google|28|reject
+ipad 1|28|reject
+rear view|28|accept
+point shoot digital|28|reject
+touch samsung|28|reject
+by manufacturer|28|reject
+color printer|28|accept
+av vga|28|reject
+receiver bluetooth|28|reject
+discontinued by|28|reject
+in black|28|reject
+s4 s3 note 3|28|reject
+installation kit|28|reject
+ultra clear|28|reject
+discontinued by manufacturer|28|accept
+ipod touch samsung|28|reject
+300mm f 4 5|28|reject
+5mm audio|28|reject
+photo video studio|28|reject
+kit w|28|reject
+usb charging|27|reject
+ipod touch samsung galaxy|27|reject
+multi region|27|accept
+zoom nikkor|27|reject
+s4 note 2|27|reject
+professional camcorder|27|accept
+wireless controller|27|accept
+ipad 1 2|27|reject
+v4ink � new|27|reject
+pc dual|27|reject
+android phone|27|accept
+cut shredder|27|reject
+sony playstation 3|27|accept
+lens digital|27|reject
+a tech brand|27|reject
+brand new|27|accept
+not included|27|accept
+digital camera black|27|reject
+mp cmos digital slr|27|reject
+32gb deluxe|27|reject
+mp4 mp3 player receiver|27|reject
+f 2|27|reject
+intel core|27|reject
+� new compatible|27|reject
+capacitive stylus|27|accept
