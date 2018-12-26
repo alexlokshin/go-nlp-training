@@ -1480,3 +1480,314 @@ only authorized|39|reject
 brand new one year|39|reject
 easy access|39|reject
 built in wi fi|39|accept
+pd 6pc complete|42|reject
+money back|42|accept
+gentle cleaning|38|accept
+ultra gentle cleaning|38|reject
+charger iphone|38|reject
+gentle cleaning cloth|38|accept
+up in|38|reject
+new one year warranty|38|reject
+w x h|38|reject
+real time|38|accept
+manufacturer warranty|38|accept
+ultra gentle|38|reject
+brand new one year warranty|38|accept
+ultra gentle cleaning cloth|38|accept
+portable charger|38|accept
+easy install|38|accept
+herofiber� ultra gentle|37|reject
+free technical support|37|accept
+mount 1|37|reject
+free technical|37|reject
+memory card wallet|37|accept
+in microphone|37|reject
+only authorized seller|37|reject
+herofiber� ultra gentle cleaning|37|reject
+ink cartridges|37|accept
+high performance|37|accept
+herofiber� ultra gentle cleaning cloth|37|reject
+here help|37|reject
+wii remote|37|accept
+herofiber� ultra|37|reject
+comes in|37|reject
+protective case samsung galaxy s5|36|reject
+in certified frustration free|36|reject
+certified frustration free|36|reject
+card up|36|reject
+ships in certified|36|reject
+ships in certified frustration free|36|reject
+in certified frustration free packaging|36|reject
+in certified|36|reject
+ships in certified frustration|36|reject
+ships in certified frustration free packaging|36|reject
+x 9|36|reject
+in certified frustration|36|reject
+nintendo dsi|36|accept
+certified frustration|36|reject
+android 4 4 kitkat tablet pc|36|reject
+fire hd 6|36|reject
+hd 6|36|reject
+certified frustration free packaging|36|accept
+from any|35|reject
+us whenever|35|reject
+android devices|35|reject
+question pops up in|35|reject
+us whenever question pops up|35|reject
+kit includes some essential|35|reject
+accessories need take|35|reject
+frequently updated|35|reject
+always here|35|reject
+head always|35|reject
+firmware guarantees|35|reject
+updated firmware guarantees|35|reject
+contact us whenever question|35|reject
+whenever question pops|35|reject
+whenever question pops up|35|reject
+essential accessories need|35|reject
+updated firmware|35|reject
+usb charging cable|35|accept
+question pops|35|reject
+us whenever question|35|reject
+in head always|35|reject
+feel free contact us whenever|35|reject
+some essential|35|reject
+windows mac|35|reject
+contact us whenever question pops|35|reject
+micro fiber|35|accept
+guarantees customer|35|reject
+accessories need take full|35|reject
+essential accessories need take|35|reject
+accessories need|35|reject
+question pops up in head|35|reject
+includes some essential accessories|35|reject
+in head|35|reject
+question pops up|35|reject
+includes some essential|35|reject
+head always here|35|reject
+whenever question pops up in|35|reject
+always here help|35|reject
+free contact us whenever|35|reject
+firmware guarantees customer|35|reject
+frequently updated firmware|35|reject
+whenever question|35|reject
+contact us whenever|35|reject
+frequently updated firmware guarantees customer|35|reject
+frequently updated firmware guarantees|35|reject
+us whenever question pops|35|reject
+up in head|35|reject
+some essential accessories|35|reject
+pops up in|35|reject
+pops up in head|35|reject
+updated firmware guarantees customer|35|reject
+pops up|35|reject
+access all|35|reject
+pd 5pc complete cleaning|34|reject
+branded products|34|reject
+5pc complete cleaning|34|reject
+pd 5pc|34|reject
+bluetooth enabled|34|accept
+orchestra snap on hard protective case|34|reject
+long serviceable ends pro audio effects|34|reject
+5pc complete cleaning kit|34|reject
+pd 5pc complete|34|reject
+feet long serviceable ends pro audio|34|reject
+audio effects snake live live|34|reject
+compatible iphone|34|reject
+pro audio effects snake live|34|reject
+samsung galaxy s5 s4 s3 note|34|reject
+band orchestra snap on hard protective|34|reject
+stainless steel|34|accept
+rechargeable lithium|34|reject
+5pc complete|34|reject
+pd 5pc complete cleaning kit|34|reject
+aaa batteries|34|accept
+serviceable ends pro audio effects snake|34|reject
+effects snake live live recording|34|reject
+x d|34|reject
+crystal clear|34|accept
+trademark only authorized|33|reject
+authorized seller hde branded|33|reject
+hde branded|33|reject
+authorized seller hde|33|reject
+built in microphone|33|accept
+authorized seller hde branded products|33|reject
+trademark only|33|reject
+hde branded products|33|reject
+seller hde branded products|33|reject
+li ion|33|accept
+seller hde|33|reject
+only authorized seller hde branded|33|reject
+[10] pd|33|reject
+only authorized seller hde|33|reject
+registered trademark only|33|reject
+seller hde branded|33|reject
+wireless remote|33|accept
+pal ntsc|32|accept
+use in|32|reject
+bundle includes|32|reject
+day 100%|32|reject
+monochrome printer scanner copier|32|accept
+warranty free|32|reject
+high speed hdmi|32|accept
+hdmi output|32|accept
+belt strap|32|accept
+opera glass|32|reject
+compatible sony|32|reject
+s 18 55mm f 3 5|32|reject
+hour battery|32|reject
+vista windows|32|reject
+quality certified|32|reject
+windows 7 windows|32|reject
+instruction manual|32|accept
+day 100% satisfaction|32|reject
+ef s 18 55mm f 3|32|reject
+stereo audio|32|reject
+in usa|32|reject
+day 100% satisfaction guarantee|32|reject
+gold indoor|31|reject
+x 12|31|reject
+air quality certified|31|accept
+720p hd video|31|accept
+gold indoor air quality certified|31|reject
+indoor air quality|31|accept
+outside us|31|reject
+tech support from|31|reject
+indoor air|31|reject
+windows vista|31|accept
+indoor air quality certified|31|accept
+support from|31|reject
+customer satisfaction|31|accept
+galaxy s4 s3|31|reject
+camera ef s 18 55mm|31|reject
+will fit|31|accept
+air quality|31|accept
+gold indoor air quality|31|reject
+gold indoor air|31|reject
+micro usb cable|30|accept
+usb card|30|reject
+mario kart|30|accept
+r rw|30|reject
+greenguard greenguard gold indoor air|30|reject
+greenguard gold indoor air quality certified|30|reject
+greenguard gold indoor air quality|30|reject
+greenguard greenguard gold|30|reject
+greenguard greenguard|30|reject
+pop classic|30|accept
+greenguard greenguard gold indoor|30|reject
+restricted sale state|30|reject
+manufacturing defects|30|accept
+rock pop|30|reject
+rock pop classic|30|accept
+universal remote|30|accept
+ac power|30|accept
+light stands|30|accept
+cap keeper|30|reject
+plug in|30|accept
+restricted sale|30|accept
+greenguard gold indoor|30|reject
+works on|30|reject
+state california|30|reject
+s video|30|reject
+item restricted|30|reject
+licensed by|30|reject
+greenguard gold indoor air|30|reject
+sale state|30|reject
+shoulder strap|30|accept
+item restricted sale|30|reject
+state california outside|30|reject
+greenguard gold|30|reject
+charger usb|30|reject
+usb card reader|30|accept
+sale state california|30|reject
+must have|30|accept
+what's in|30|reject
+california outside|30|reject
+free lifetime|30|reject
+jazz dbb|30|reject
+cell phones|30|accept
+includes 3|30|reject
+x h x d|29|reject
+more than|29|reject
+musical instrument music strings band orchestra|29|reject
+cd usb sd mp4 mp3 player|29|reject
+carry bag|29|reject
+light weight|29|accept
+card included|29|reject
+line in|29|reject
+full 1080p hd|29|accept
+samsung galaxy s4 s3|29|reject
+package content|29|accept
+customer service tech support from|29|reject
+microsoft windows|29|accept
+gold plated|29|accept
+hard protective case htc one|29|reject
+service tech support from|29|reject
+mouse pad|29|accept
+water resistant|29|accept
+what's in box|29|reject
+on hard protective case htc|29|reject
+sdhc sdxc|29|reject
+ti 84|29|reject
+video audio|29|reject
+much more|29|reject
+california outside us|29|reject
+w x h x d|29|reject
+includes 2|29|reject
+waterproof case|29|accept
+h x d|29|reject
+ti 84 plus|29|reject
+x h x|29|reject
+5mm male|29|reject
+dvd cd usb sd mp4 mp3|29|reject
+w x h x|29|reject
+quick release plate|28|reject
+pass through|28|accept
+galaxy gear|28|reject
+volume control|28|accept
+wii console|28|accept
+micro usb charging|28|reject
+3g 4g|28|reject
+on any|28|reject
+made in usa|28|accept
+battery included|28|accept
+photo paper|28|accept
+55mm stm|28|reject
+muslin backdrop|28|reject
+epson stylus|28|accept
+compatible windows|28|reject
+iphone 5s 5c 5 4s 4|28|reject
+removable carbineer|28|accept
+guitar hero|28|accept
+cd r|28|reject
+remote camera|28|reject
+premium quality|28|accept
+laserjet pro|28|reject
+please contact|28|reject
+vista 7|28|reject
+backed digitalgoja|28|reject
+g n|28|reject
+ipad android|28|reject
+release plate|28|reject
+cable 3|28|reject
+ball head|28|reject
+samsung galaxy gear|27|accept
+usb ports|27|accept
+male male|27|reject
+speed sd|27|reject
+hour battery life|27|reject
+two 2|27|reject
+e all in one|27|reject
+amazon com|27|accept
+e all|27|reject
+clip on|27|accept
+mark ii|27|reject
+genuine tech|27|accept
+cd rw|27|reject
+hdmi 1|27|reject
+sd adapter|27|accept
+e all in|27|reject
+power consumption|27|reject
+4s 4 samsung|27|reject
+iphone ipad android|27|reject
+caller id|27|accept
