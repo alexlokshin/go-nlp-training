@@ -890,3 +890,593 @@ f 2|27|reject
 intel core|27|reject
 � new compatible|27|reject
 capacitive stylus|27|accept
+sd mp4 mp3|33|reject
+roof prism binocular|30|reject
+hard protective case htc|29|reject
+8gb mp3|28|reject
+car mount holder|28|accept
+inch lcd screen|27|reject
+camcorder video|27|reject
+genuine a tech|27|reject
+motion detection|27|accept
+� new|27|reject
+a tech|27|reject
+wall mount bracket|27|accept
+guitar instrument|27|reject
+sd mp4 mp3 player receiver|27|reject
+one wireless|27|reject
+includes special offers|27|reject
+special offers|27|reject
+camera 1|27|reject
+wireless monochrome|27|reject
+holder stand|27|reject
+black blue|27|reject
+led hdtv|27|accept
+hdmi port|27|accept
+tablet pc dual|27|reject
+sd memory|27|reject
+genuine a|27|reject
+strap mount|27|reject
+tele wide|27|reject
+5s 5c 4s|27|reject
+touch samsung galaxy|27|reject
+gb includes|27|reject
+v4ink � new compatible|27|reject
+in dash single din|27|reject
+kit nikon|27|reject
+tv converter|27|accept
+in dash single|27|reject
+inch 1080p 60hz|27|reject
+lens 3|27|reject
+mobile phones|27|accept
+led lcd|27|reject
+tech brand|27|reject
+genuine a tech brand|27|reject
+multi touch screen|27|reject
+digital camcorder|27|accept
+tv box|27|reject
+includes special|27|reject
+musical instruments|27|reject
+video player|26|accept
+s 18 55mm is|26|reject
+pre installed|26|reject
+5s ipad|26|reject
+replacement battery|26|accept
+gb includes special offers|26|reject
+av receiver|26|accept
+laser detector|26|accept
+gb includes special|26|reject
+photo printer scanner copier|26|accept
+hdmi vga|26|reject
+stereo headset|26|accept
+tablet pc dual camera|26|reject
+smart watch phone|26|reject
+scan dvd|26|reject
+rebel t5|26|reject
+ipad 1 2 3|26|reject
+lcd screen protectors|26|reject
+trs snake|26|reject
+holder iphone|26|reject
+hp envy|26|accept
+core android|26|reject
+iphone 6 6 plus 5s|26|reject
+lifetime warranty|26|accept
+channel 1 4 trs snake|26|reject
+speed hdmi|26|reject
+note 2 note 3 htc|26|reject
+trs snake cable|26|reject
+pc dual camera|26|reject
+rock band|26|accept
+mini tripod|26|accept
+laptop netbook|26|accept
+color inkjet|26|accept
+optical zoom 3|26|reject
+nintendo ds lite|26|accept
+cable 10|26|reject
+s3 s4 note 2|26|reject
+wall charger|26|accept
+macro lens|26|reject
+3g 3gs 4|26|reject
+player 1 8|26|reject
+self portrait|26|accept
+fujifilm finepix|26|accept
+panasonic lumix|26|accept
+vga usb|26|reject
+ef s 18 55mm is|26|reject
+frustration free|26|accept
+ipad mini ipad|25|reject
+plug earphone|25|reject
+ef s 18 55mm f|25|reject
+s 18 55mm f 3|25|reject
+screen black|25|reject
+cable cord|25|reject
+high resolution|25|accept
+battery ac dc|25|reject
+hot pink|25|reject
+inch tablet|25|reject
+note 4 3|25|reject
+free packaging|25|reject
+55mm lens|25|reject
+2x telephoto lens|25|reject
+lighting light kit|25|reject
+close up|25|accept
+hd 7|25|reject
+galaxy tab 4|25|accept
+speaker dock|25|accept
+core google android 4|25|reject
+microphone cardioid|25|reject
+cd player|25|accept
+corded headset|25|reject
+flex cable|25|accept
+iphone 3g 3gs|25|reject
+interchangeable lens digital|25|reject
+cross cut paper|25|reject
+s 18 55mm f|25|reject
+lens cleaning cloth|25|reject
+camera 3 inch lcd|25|reject
+more black|25|reject
+all in one wireless|25|reject
+dust plug earphone|25|reject
+deluxe accessory bundle|25|accept
+home cinema|25|accept
+black red|25|reject
+region free|25|accept
+display wi fi|25|reject
+usb charger|25|accept
+display wi|25|reject
+paper shredder|25|accept
+battery ac|25|reject
+nikkor lens|25|reject
+case bag|25|reject
+recorder vcr combo|25|reject
+wide lens|25|reject
+iphone 6 iphone|25|reject
+a v|25|reject
+mini ipod|25|reject
+bass instrument|25|reject
+portable bluetooth|25|reject
+smart tv|25|accept
+silver black|25|reject
+extendable handle|25|reject
+progressive scan dvd|25|reject
+in one wireless|25|reject
+core google android|25|reject
+fire hd 7|25|accept
+wireless system|25|reject
+studio lighting kit|24|reject
+frustration free packaging|24|accept
+tv wall|24|reject
+high power|24|reject
+cd mp3|24|reject
+graphing calculator|24|accept
+sd card reader|24|accept
+lens 32gb|24|reject
+300mm f 4 5 6|24|reject
+ultra portable|24|accept
+is stm lens|24|reject
+sdxc memory|24|accept
+mobile wifi|24|reject
+air mini|24|reject
+motorola moto x|24|accept
+dvd recorder vcr combo|24|accept
+mini 2|24|reject
+phone signal|24|accept
+radar laser detector|24|accept
+digital video camcorder|24|accept
+s5 s4 s3 note 3|24|reject
+stand case|24|reject
+port usb|24|reject
+cable black|24|reject
+adapter cable|24|accept
+touchscreen dvd|24|accept
+galaxy s2|24|reject
+wide lens kit|24|accept
+iphone 6 plus 5 5|24|reject
+black color|24|reject
+eos rebel t5|24|reject
+mp3 mp4 player|24|reject
+sdxc memory card|24|accept
+player 1080p|24|reject
+32gb usb|24|reject
+4s samsung|24|reject
+x 5|24|reject
+galaxy s5 s4 s3 s2|24|reject
+plug play|24|reject
+bluetooth stereo|24|reject
+low profile|24|reject
+landline telephone|24|accept
+air ipad mini|24|reject
+answering system|24|reject
+retina display|24|accept
+micro hdmi cable|24|accept
+motorola xoom|24|accept
+wireless keyboard|24|accept
+canon eos rebel t5|24|reject
+body only|24|reject
+tv converter box|24|accept
+camera includes|24|reject
+hdr cx240|24|reject
+digital zoom|24|accept
+color laserjet|24|accept
+sd memory card|24|accept
+plus iphone|24|reject
+usb av|24|reject
+in car|24|reject
+ultra hd|24|accept
+camera tripod|23|accept
+wi fi digital|23|reject
+playstation portable|23|accept
+sync cable|23|accept
+lifetime replacement|23|accept
+amazon kindle|23|accept
+hf r500|23|reject
+one printer|23|reject
+kit photo|23|reject
+google nexus 5|23|accept
+tele wide lens|23|accept
+dash cam|23|accept
+digital slr camera 18 55mm|23|reject
+mac mini|23|accept
+class 4|23|reject
+x 8|23|reject
+32gb class|23|reject
+iphone 6 5s|23|reject
+anti glare|23|accept
+ipad samsung|23|reject
+lcd w|23|reject
+cyber shot|23|reject
+binocular black|23|reject
+nexus 7|23|accept
+dvd players|23|accept
+mp4 fm|23|reject
+plus 5s 5c 5 4s|23|reject
+ipad air ipad mini|23|reject
+ac dc charger|23|accept
+eos m|23|reject
+stereo receiver|23|accept
+wireless monochrome printer|23|accept
+microphone stand|23|accept
+mp4 fm radio|23|reject
+slim 1|23|reject
+guitar bass instrument|23|reject
+zoom nikkor lens|23|reject
+home stereo|23|accept
+underwater photography|23|accept
+in one printer|23|reject
+mp3 mp4 fm radio|23|reject
+photo studio lighting|23|accept
+high speed hdmi cable|23|accept
+professional video|23|accept
+tele wide lens kit|23|accept
+gaming mouse|23|accept
+ipad 3|23|accept
+64gb card|23|reject
+fi digital|23|reject
+wireless color printer|23|accept
+bass instrument cable|23|reject
+dvr camera|23|reject
+speed hdmi cable|23|reject
+mini digital|23|reject
+mp3 mp4 fm|23|reject
+dc charger|23|reject
+hd 1024x600|23|reject
+4s 4 3gs|23|reject
+headphone jack|23|accept
+handheld monopod|22|reject
+tripod accessory kit|22|accept
+replacement warranty|22|accept
+din installation|22|reject
+canon nikon pentax|22|reject
+tooloud matching christmas design|22|reject
+lifetime replacement warranty|22|accept
+sd usb|22|reject
+anti lost|22|reject
+jack charm|22|reject
+home entertainment|22|accept
+hd display|22|accept
+mp3 mp4 fm radio player|22|reject
+wireless color all in one|22|reject
+ipad air mini|22|reject
+ios android|22|reject
+camera 5x|22|reject
+portrait video|22|reject
+wireless color all in|22|reject
+android tablet|22|accept
+christmas design elf|22|reject
+color all|22|reject
+combo player|22|reject
+christmas design|22|accept
+tooloud matching christmas|22|reject
+universal car|22|reject
+hd display wi fi|22|reject
+mini hdmi|22|accept
+apple iphone 5 5s|22|reject
+color all in one|22|reject
+fm radio player 1 8|22|reject
+radio player 1 8 lcd|22|reject
+version of|22|reject
+case led|22|reject
+32gb card case|22|reject
+design elf|22|reject
+ultra high|22|reject
+iphone 4 4s 5 5c|22|reject
+cable box|22|accept
+mini samsung|22|reject
+touchscreen dvd cd|22|reject
+nylon braided|22|reject
+design elf family|22|reject
+lcd led|22|reject
+kit gopro|22|reject
+stand case cover|22|reject
+usb keyboard|22|accept
+8gb nand|22|reject
+player 1 8 lcd|22|reject
+security system|22|accept
+digital camera 5x|22|reject
+video stabilizer|22|accept
+music audio|22|reject
+player 1 8 lcd w|22|reject
+extended life|22|accept
+gold trim|22|accept
+tooloud matching|22|reject
+ipad ipod touch|22|reject
+fm radio player 1|22|reject
+nikon pentax|22|reject
+radio player|22|reject
+professional accessory|22|reject
+galaxy note 2|22|reject
+radio player 1 8|22|reject
+elf family|22|reject
+camera 2 7|22|reject
+matching christmas design elf family|22|reject
+ultra compact|22|accept
+camcorder 2 7|22|reject
+tooloud matching christmas design elf|22|reject
+1080p 120hz|22|reject
+guitar bass instrument cable|22|reject
+3gs 4 4s|22|reject
+nikon 1|22|reject
+32gb card battery|22|reject
+mp4 fm radio player|22|reject
+christmas design elf family|22|reject
+lcd w accessories|22|reject
+tv wall mount|22|accept
+matching christmas|22|reject
+piece filter|22|reject
+hand held|22|accept
+radio player 1|22|reject
+black 2|22|reject
+8gb nand flash|22|reject
+refractor telescope|22|accept
+color all in one inkjet|22|accept
+class 10 micro|22|reject
+full 1080p|22|accept
+windows 8 1|22|reject
+cable samsung|22|reject
+shoulder support|22|reject
+hd display wi|22|reject
+720p 60hz led tv|22|reject
+card adapter|22|reject
+color all in|22|reject
+wireless color all|22|reject
+mp4 fm radio player 1|22|reject
+tripod monopod|22|reject
+softbox lighting kit|22|reject
+pop filter|22|reject
+matching christmas design elf|22|reject
+glass screen|22|accept
+w accessories|22|reject
+htc samsung|22|reject
+fm radio player|22|reject
+matching christmas design|22|reject
+case tripod|22|reject
+piece filter kit|21|reject
+image stabilized|21|accept
+32gb deluxe accessory|21|reject
+all in one printer|21|accept
+s3 s2 note|21|reject
+bluetooth hands free|21|accept
+64gb usb|21|reject
+head hi fi|21|reject
+wrist strap|21|accept
+kindle fire hd|21|accept
+blue led|21|reject
+extended life replacement|21|accept
+black 3|21|reject
+pen iphone|21|reject
+camera stabilizer|21|accept
+umbrella continuous|21|reject
+4s samsung galaxy|21|reject
+dynamic microphone|21|accept
+s4 s3 s2 note|21|reject
+player usb|21|reject
+headset jack|21|accept
+table top tripod|21|accept
+wiring harness|21|accept
+value kit|21|accept
+quad core google android 4|21|reject
+screen 8gb|21|reject
+case apple|21|reject
+cartridge black|21|reject
+htc sony|21|reject
+cross cut shredder|21|accept
+lens digital camera|21|reject
+accessory kit canon|21|accept
+telephoto lenses|21|accept
+dual camera hd|21|reject
+hd webcam|21|accept
+mini hdmi cable|21|accept
+cta digital|21|reject
+photography photo studio|21|reject
+quad core google android|21|reject
+size tripod|21|reject
+quad core google|21|reject
+ipad 1 2 3 4|21|reject
+cowboystudio photography|21|reject
+compact systems|21|reject
+all in one wireless color|21|reject
+spare battery|21|accept
+year warranty|222|reject
+battery life|120|accept
+limited warranty|118|accept
+year limited|118|reject
+one year|114|reject
+year limited warranty|106|reject
+charging jack|94|accept
+or charging jack|92|reject
+buttons charging jack|94|reject
+buttons charging|94|reject
+interfere buttons|92|reject
+interfere buttons charging|92|reject
+interfere buttons charging jack|92|reject
+limited lifetime|90|reject
+easy use|87|accept
+w x|86|reject
+x 1|86|reject
+x 2|84|reject
+mac os|84|accept
+customer service|80|accept
+complete cleaning kit|79|accept
+memory card case|79|accept
+complete cleaning|79|reject
+card memory|77|reject
+contact us|76|accept
+card memory card|75|reject
+one 1|74|reject
+windows xp|73|accept
+package includes|73|reject
+printer scanner copier fax|72|accept
+sd card memory|72|reject
+package contents|72|accept
+sd card memory card|71|reject
+pd 8 sd card|70|reject
+pd 8|70|reject
+ion battery|70|reject
+pd 8 sd|70|reject
+sd card memory card case|70|reject
+card memory card case|70|reject
+pd 8 sd card memory|70|reject
+pd 8 sd card memory card|70|reject
+manufacturer's warranty|69|accept
+tech support|68|accept
+os x|67|accept
+accessories included|67|accept
+sold separately|67|accept
+compatible all|66|reject
+aa batteries|66|accept
+batteries included|64|accept
+limited lifetime warranty|64|accept
+this item|64|reject
+one year warranty|64|accept
+case included|63|accept
+hard protective case samsung galaxy|62|reject
+on hard protective case samsung|62|reject
+x 3|61|reject
+xp vista|60|reject
+dolby digital|60|accept
+lithium ion|60|accept
+100% satisfaction|59|accept
+sd sdhc|58|reject
+x 10|58|reject
+digital audio|58|accept
+usb port|57|accept
+top tripod|57|reject
+includes 1|56|reject
+backed by|55|reject
+pc mac|55|reject
+power cord|54|accept
+this kit|53|reject
+quick easy|53|reject
+mac os x|53|accept
+on off|52|reject
+user manual|52|accept
+in box|52|reject
+color black|52|reject
+we are|51|reject
+dvd r|51|accept
+u s|51|reject
+customer service tech support|50|reject
+satisfaction guarantee|50|accept
+service tech support|50|reject
+customer service tech|50|reject
+wireless color photo printer scanner|50|accept
+service tech|50|reject
+technical support|49|accept
+cable included|49|accept
+one touch|49|accept
+x 4|48|reject
+memory cards|48|accept
+free contact|48|reject
+free contact us|48|reject
+lithium ion battery|47|accept
+feel free|47|reject
+feel free contact|47|reject
+feel free contact us|47|reject
+hi speed|47|accept
+registered trademark|47|accept
+year manufacturer's|47|reject
+6pc complete cleaning kit|45|reject
+6pc complete|45|reject
+6pc complete cleaning|45|reject
+audio output|45|accept
+year manufacturer's warranty|45|reject
+h 264|45|accept
+studios gigs patch amp mixer|44|reject
+live recording studios gigs patch|44|reject
+live live recording studios gigs|44|reject
+powered by|44|reject
+rights holders|44|reject
+snake live live recording studios|44|reject
+recording studios gigs patch amp|44|reject
+made in|44|accept
+cable 1|44|reject
+gigs patch amp mixer audio interface|44|reject
+any rights|44|reject
+any rights holders|44|reject
+ipad iphone|43|reject
+100% satisfaction guarantee|42|accept
+available in|42|reject
+h x|42|reject
+pd 6pc|42|reject
+x h|42|reject
+easy installation|42|reject
+pd 6pc complete cleaning|42|reject
+home office|42|accept
+pd 6pc complete cleaning kit|42|reject
+take full|42|reject
+up 32gb|42|reject
+card wallet|42|reject
+aspect ratio|41|accept
+55mm f 3 5 5 6|41|reject
+compatible printer|41|reject
+printer list|41|reject
+viewing angle|41|accept
+compatible printer list|41|reject
+essential accessories|41|accept
+new one|41|reject
+av cable|41|accept
+take full advantage|40|reject
+need take|40|reject
+inches long|40|reject
+used in|40|reject
+full advantage|40|reject
+authorized seller|40|accept
+in wi fi|40|reject
+take full advantage new|40|reject
+need take full|40|reject
+x 6|40|reject
+kit includes some|40|reject
+need take full advantage|40|reject
+includes some|40|reject
+x 7|40|reject
+in wi|40|reject
+advantage new|40|reject
+ships in|40|reject
+brand new one|40|reject
+full advantage new|40|reject
+built in wi|39|reject
+new one year|39|reject
+only authorized|39|reject
+brand new one year|39|reject
+easy access|39|reject
+built in wi fi|39|accept

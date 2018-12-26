@@ -15,8 +15,6 @@ import (
 
 // stopwords: with, for, and,
 
-var stopwords map[string]int
-
 type KeyValue struct {
 	Key   string
 	Value int
@@ -35,19 +33,19 @@ func collect(phrase string, phrases map[string]int) {
 		phrases[phrase] = 1
 	}
 }
-func isStopWord(text string) bool {
-	_, v := stopwords[text]
+func isIncluded(m map[string]int, text string) bool {
+	_, v := m[text]
 	return v
 }
-func generatePhrases(keywords []string, maxLength int) map[string]int {
+func generatePhrases(stopwords map[string]int, keywords []string, maxLength int) map[string]int {
 	phrases := make(map[string]int)
 	for i := 0; i < len(keywords); i++ {
 		//collect(keywords[i], phrases)
-		if !isStopWord(keywords[i]) && !valid.IsInt(keywords[i]) {
+		if !isIncluded(stopwords, keywords[i]) && !valid.IsInt(keywords[i]) {
 			if i < len(keywords)-1 {
 				phrase := keywords[i]
 				for j := 1; j < maxLength && j+i < len(keywords); j++ {
-					if !isStopWord(keywords[i+j]) {
+					if !isIncluded(stopwords, keywords[i+j]) {
 						phrase = phrase + " " + keywords[i+j]
 						collect(phrase, phrases)
 					}
@@ -91,6 +89,23 @@ func readKnownPhrases(fileName string) map[string]int {
 	return phrases
 }
 
+func readStopWords(fileName string) map[string]int {
+	stopwords := make(map[string]int)
+	file, err := os.Open(fileName)
+	if err != nil {
+		return stopwords
+	}
+	defer file.Close()
+	scanner := bufio.NewScanner(file)
+
+	for scanner.Scan() {
+
+		text := scanner.Text()
+		stopwords[text] = 0
+	}
+	return stopwords
+}
+
 type Product map[string]string
 
 // Data can be found https://github.com/dariusk/corpora/tree/master/data
@@ -98,11 +113,7 @@ type Product map[string]string
 func main() {
 	knownPhrases := readKnownPhrases("phrases.txt")
 
-	stopwords = make(map[string]int)
-	stopwords["for"] = 0
-	stopwords["with"] = 0
-	stopwords["to"] = 0
-	stopwords["and"] = 0
+	stopwords := readStopWords("stopwords.txt")
 
 	t := tokenizer.NewWithSeparator("\t\n\r ,.:?\"!;()\\/\\-\\+\\&")
 	phrases := make(map[string]int)
@@ -121,7 +132,11 @@ func main() {
 		if len(text) == 0 {
 			if len(product) > 0 {
 				tokens := tokenize(t, product["Title"])
-				subPhrases := generatePhrases(tokens, 5)
+				subPhrases := generatePhrases(stopwords, tokens, 6)
+				accumulate(phrases, subPhrases)
+
+				tokens = tokenize(t, product["Feature"])
+				subPhrases = generatePhrases(stopwords, tokens, 6)
 				accumulate(phrases, subPhrases)
 			}
 			product = nil
@@ -161,7 +176,7 @@ func main() {
 		if present {
 			continue
 		}
-		//fmt.Printf("%s, %d\n", kv.Key, kv.Value)
+
 		fmt.Printf("%s?\n", kv.Key)
 		var input string
 		fmt.Scanln(&input)
