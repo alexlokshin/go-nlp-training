@@ -1791,3 +1791,119 @@ power consumption|27|reject
 4s 4 samsung|27|reject
 iphone ipad android|27|reject
 caller id|27|accept
+cleaning pen|28|accept
+speed usb|27|reject
+phones more|27|reject
+flash memory card|27|accept
+handle grip|27|accept
+soft carrying|27|reject
+phone tablet|27|reject
+secure digital|27|accept
+genuine tech brand|27|reject
+optical image|27|reject
+image stabilization|27|reject
+tripod soft|27|reject
+soft carrying case|27|accept
+voice recorder|27|accept
+x 0|27|reject
+tripod stand|26|accept
+piece cleaning kit|26|reject
+lens cleaning pen|26|reject
+backed digitalgoja 90 day 100%|26|reject
+inch 720p 60hz led|26|reject
+stage plate|26|reject
+accessory only|26|reject
+it will|26|reject
+nano sim|26|accept
+digitalgoja 90 day|26|reject
+piece cleaning|26|reject
+digitalgoja 90 day 100% satisfaction|26|reject
+backed digitalgoja 90|26|reject
+digital tv|26|accept
+digitalgoja 90|26|reject
+dragon touch|26|reject
+full size tripod|26|accept
+backed digitalgoja 90 day|26|reject
+quality assurance|26|accept
+color photo printer scanner copier|26|accept
+digitalgoja 90 day 100% satisfaction guarantee|26|reject
+alkaline batteries|26|accept
+dvd rw|26|accept
+field view|26|reject
+camcorder case|26|accept
+digitalgoja 90 day 100%|26|reject
+compatible samsung|26|reject
+neck strap|26|accept
+flexible tripod|26|accept
+days warranty|26|reject
+phones tablets|26|reject
+hp color|26|reject
+back guarantee|26|reject
+gopro hd|26|accept
+brother hl|26|reject
+remote controller|26|accept
+may vary|26|reject
+head hi|26|reject
+lens 3 piece|26|reject
+dsi xl|26|reject
+pocket sized|26|reject
+channel 1 4 trs snake cable|26|reject
+money back guarantee|26|accept
+start guide|26|reject
+samsung galaxy s2|26|accept
+usb sd mp4 mp3 player receiver|26|reject
+nexus 6|26|accept
+4s 4 samsung galaxy|25|reject
+music natural|25|reject
+music natural rock pop|25|reject
+music natural rock pop classic soft|25|reject
+preset equalizer music|25|reject
+iphones ipads|25|reject
+carrying case included|25|reject
+x usb|25|reject
+rock pop classic soft jazz dbb|25|reject
+non slip|25|accept
+frequency response|25|reject
+camera bag|25|accept
+rock pop classic soft|25|reject
+soft jazz dbb|25|reject
+equalizer music natural|25|reject
+sound system|25|accept
+off switch|25|reject
+hp color laserjet|25|accept
+natural rock pop|25|reject
+canon eos m|25|accept
+long range|25|accept
+warranty on|25|reject
+pop classic soft jazz|25|reject
+natural rock pop classic|25|reject
+music natural rock pop classic|25|reject
+bulk packaging|25|reject
+galaxy s5 s4 s3 note 3|25|reject
+ipads ipods|25|reject
+fire hdx|25|reject
+galaxy mega|25|reject
+pop classic soft|25|reject
+capacitive touch|25|reject
+rock pop classic soft jazz|25|reject
+plain stage|25|reject
+any other|25|reject
+soft jazz|25|reject
+music player|25|reject
+protect investment|25|reject
+natural rock pop classic soft jazz|25|reject
+includes 1 x|25|reject
+natural rock|25|reject
+pop classic soft jazz dbb|25|reject
+grip handle|25|reject
+equalizer music natural rock|25|reject
+voice alert|25|accept
+iphone 3g 3gs 4|25|reject
+natural rock pop classic soft|25|reject
+preset equalizer music natural|25|reject
+classic soft jazz dbb|25|reject
+motorola droid|25|accept
+classic soft|25|reject
+preset equalizer|25|reject
+rechargeable batteries|25|accept
+compact design|25|accept
