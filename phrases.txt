@@ -1907,3 +1907,217 @@ classic soft|25|reject
 preset equalizer|25|reject
 rechargeable batteries|25|accept
 compact design|25|accept
+makes it|25|reject
+classic soft jazz|25|accept
+add squaretrade|25|reject
+low power|25|accept
+equalizer music|25|reject
+telescopic handheld|25|reject
+steering wheel|25|accept
+galaxy phones|25|reject
+music natural rock|25|reject
+you're covered from|24|reject
+month warranty|24|reject
+soft case|24|accept
+full 1 year|24|reject
+video surveillance|24|accept
+phones 1|24|reject
+year from|24|reject
+assurance why|24|reject
+quick start|24|accept
+multi function|24|accept
+note 3 note|24|reject
+video cameras|24|accept
+compatible hp|24|reject
+manufacturing defects 1 year from|24|reject
+you're covered|24|reject
+full 1|24|reject
+warranty you're|24|reject
+sold individually|24|reject
+cable tv|24|accept
+bike handlebar|24|accept
+inch led|24|reject
+defects 1 year from|24|reject
+clear screen protector|24|accept
+memory card reader|24|accept
+defects 1 year|24|reject
+covered from|24|reject
+quality assurance why|24|reject
+front panel|24|accept
+manufacturing defects 1 year|24|reject
+3g 3gs 4 4s|24|reject
+warranty you're covered|24|reject
+stage clips|24|reject
+hde registered|24|reject
+on off switch|24|accept
+manufacturing defects 1|24|reject
+quality assurance why hesitating|24|reject
+canon ef s|24|reject
+hde registered trademark|24|reject
+rebel t5i t4i|24|reject
+player remote|24|reject
+assurance why hesitating|24|reject
+l x|24|reject
+x limostudio|24|reject
+defects 1|24|reject
+s2 note|24|reject
+warranty you're covered from|24|reject
+up 6|24|reject
+remote voice|24|reject
+why hesitating|24|reject
+uv filter|24|accept
+mic stand|24|accept
+ipad ipad|24|reject
+belt strap mount|24|reject
+extra battery|23|accept
+iphone 6 iphone 6 plus|23|reject
+component video|23|accept
+content 1 x|23|reject
+bubble free|23|accept
+xp vista 7|23|reject
+updated firmware guarantees customer satisfaction|23|reject
+aa batteries included|23|reject
+in title|23|reject
+iphone samsung galaxy|23|reject
+up 10|23|reject
+highest quality|23|accept
+m 18|23|reject
+samsung htc|23|reject
+frequently updated firmware guarantees customer satisfaction|23|reject
+x 2nd|23|reject
+firmware guarantees customer satisfaction|23|reject
+page yield|23|accept
+dual sim|80|accept
+boost mobile|76|accept
+no contract|75|accept
+virgin mobile|69|accept
+verizon wireless|68|accept
+fire phone|67|accept
+straight talk|66|accept
+amazon fire|56|accept
+os android|55|reject
+mobile metropcs|54|reject
+t mobile metropcs|54|reject
+case compatible|54|reject
+unlocked international|52|reject
+international version|49|accept
+android smartphone|47|accept
+unlocked phone|47|accept
+os android 4|46|reject
+telcel america|46|reject
+amazon fire phone|45|accept
+simple mobile|45|accept
+compatible each|44|reject
+galaxy s|42|reject
+jelly bean|42|accept
+unlocked gsm|42|accept
+warranty 6months|41|reject
+phone black|41|reject
+prepaid phone|41|accept
+walmart family mobile|39|accept
+walmart family|39|reject
+ultra mobile|39|reject
+family mobile|39|reject
+go smart|39|reject
+solavei ultra mobile|38|reject
+solavei ultra|38|reject
+ultra mobile telcel|38|reject
+straight talk solavei ultra|38|reject
+straight talk solavei ultra mobile telcel|38|reject
+talk solavei ultra mobile|38|reject
+go smart simple mobile|38|reject
+straight talk solavei ultra mobile|38|reject
+inch by|565|reject
+indoor outdoor|417|accept
+inch width|328|reject
+inches wide|324|reject
+inches high|308|reject
+set 2|306|reject
+brushed nickel|295|accept
+inch height|289|reject
+oil rubbed|285|accept
+rubbed bronze|283|reject
+oil rubbed bronze|279|accept
+in good|275|reject
+book in|274|reject
+used book in good condition|273|accept
+used book in|273|reject
+wide by|273|reject
+used book|273|accept
+book in good condition|273|reject
+in good condition|273|reject
+book in good|273|reject
+good condition|273|reject
+used book in good|273|reject
+width by|262|reject
+snow thrower|257|accept
+satin nickel|251|accept
+machine washable|249|accept
+machine wash|238|accept
+fire pit|234|accept
+classic accessories|227|accept
+assembly required|227|accept
+inch width by|216|reject
+inch length|203|reject
+length by|202|reject
+by 1|196|reject
+inches wide by|190|reject
+tumble dry|183|accept
+black decker|168|accept
+x 18|167|reject
+inch length by|167|reject
+gas powered|166|accept
+by 30|165|reject
+deep by|159|reject
+water filter|155|accept
+dry low|153|reject
+great gift|153|accept
+inches in|152|reject
+light bulb|149|accept
+carb compliant|149|reject
+by 3|147|reject
+set 4|146|reject
+inches deep|145|reject
+cold water|141|accept
+grow light|140|reject
+dishwasher safe|140|accept
+inch diameter|137|reject
+inch wide|135|reject
+inch x|135|reject
+ceiling fan|133|accept
+made from|133|reject
+home decor|132|accept
+chair set|128|reject
+solar powered|126|accept
+by 17|125|reject
+by 4|125|reject
+by 12|123|reject
+tumble dry low|123|accept
+all weather|123|accept
+string lights|122|accept
+d x|121|reject
+x 24|120|reject
+by 5|119|reject
+by 18|119|reject
+x 14|119|reject
+cast iron|118|accept
+pool spa|116|reject
+ul listed|115|accept
+towel ring|115|accept
+outdoor use|112|accept
+shower curtain|112|accept
+towel bar|112|accept
+in x|111|reject
+lifetime guarantee|110|accept
+wall art|109|accept
+swimming pool|107|accept
+gift idea|106|accept
+throw pillow|106|accept
+warm white|105|accept
+by 2|105|reject
+home security|105|accept
+easy assembly|105|accept
+cast aluminum|104|accept
+easy clean|104|accept
+pop up|104|accept
+garage door|103|accept
