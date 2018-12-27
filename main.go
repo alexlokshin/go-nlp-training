@@ -12,11 +12,35 @@ import (
 
 	valid "github.com/asaskevich/govalidator"
 	"github.com/euskadi31/go-tokenizer"
+	yaml "gopkg.in/yaml.v2"
 )
+
+type ValueList struct {
+	Values []string `yaml:"values"`
+}
 
 type KeyValue struct {
 	Key   string
 	Value int
+}
+
+func readValueList(fileName string) (values map[string]int, err error) {
+	values = make(map[string]int)
+	data, err := ioutil.ReadFile(fileName)
+	if err != nil {
+		log.Printf("ERROR: File %s cannot be read. #%v\n", fileName, err)
+		return values, err
+	}
+
+	var valueList ValueList
+	err = yaml.Unmarshal(data, &valueList)
+	if err != nil {
+		return values, err
+	}
+	for _, value := range valueList.Values {
+		values[value] = 0
+	}
+	return values, nil
 }
 
 func tokenize(tokenizer tokenizer.Tokenizer, text string) []string {
@@ -89,22 +113,22 @@ func readKnownPhrases(fileName string) map[string]int {
 	return phrases
 }
 
-func readStopWords(fileName string) map[string]int {
-	stopwords := make(map[string]int)
-	file, err := os.Open(fileName)
-	if err != nil {
-		return stopwords
-	}
-	defer file.Close()
-	scanner := bufio.NewScanner(file)
+// func readStopWords(fileName string) map[string]int {
+// 	stopwords := make(map[string]int)
+// 	file, err := os.Open(fileName)
+// 	if err != nil {
+// 		return stopwords
+// 	}
+// 	defer file.Close()
+// 	scanner := bufio.NewScanner(file)
 
-	for scanner.Scan() {
+// 	for scanner.Scan() {
 
-		text := scanner.Text()
-		stopwords[text] = 0
-	}
-	return stopwords
-}
+// 		text := scanner.Text()
+// 		stopwords[text] = 0
+// 	}
+// 	return stopwords
+// }
 
 func processDataSet(fileName string, phrases map[string]int, stopwords map[string]int, t tokenizer.Tokenizer) {
 	file, err := os.Open(fileName)
@@ -153,7 +177,10 @@ type Product map[string]string
 func main() {
 	knownPhrases := readKnownPhrases("phrases.txt")
 
-	stopwords := readStopWords("stopwords.txt")
+	stopwords, err := readValueList("stopwords.yml")
+	if err != nil {
+		panic(err)
+	}
 
 	t := tokenizer.NewWithSeparator("\t\n\r ,.:?\"!;()\\/\\-\\+\\&\\[\\]\\|\\*")
 	phrases := make(map[string]int)
