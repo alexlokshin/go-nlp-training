@@ -39,8 +39,9 @@ func isIncluded(m map[string]int, text string) bool {
 func generatePhrases(stopwords map[string]int, keywords []string, maxLength int) map[string]int {
 	phrases := make(map[string]int)
 	for i := 0; i < len(keywords); i++ {
-		//collect(keywords[i], phrases)
+
 		if !isIncluded(stopwords, keywords[i]) && !valid.IsInt(keywords[i]) {
+			collect(keywords[i], phrases)
 			if i < len(keywords)-1 {
 				phrase := keywords[i]
 				for j := 1; j < maxLength && j+i < len(keywords); j++ {
