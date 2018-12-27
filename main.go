@@ -154,7 +154,7 @@ func main() {
 
 	stopwords := readStopWords("stopwords.txt")
 
-	t := tokenizer.NewWithSeparator("\t\n\r ,.:?\"!;()\\/\\-\\+\\&")
+	t := tokenizer.NewWithSeparator("\t\n\r ,.:?\"!;()\\/\\-\\+\\&\\[\\]")
 	phrases := make(map[string]int)
 
 	files, err := ioutil.ReadDir("./")
