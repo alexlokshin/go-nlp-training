@@ -2121,3 +2121,131 @@ cast aluminum|104|accept
 easy clean|104|accept
 pop up|104|accept
 garage door|103|accept
+inches deep by|103|reject
+national hardware|102|accept
+inches tall|102|reject
+set 3|102|reject
+by 36|101|reject
+x 30|100|reject
+by 16|100|reject
+electric start|100|accept
+long by|100|reject
+black finish|99|reject
+by 10|99|reject
+sale in|99|reject
+mounting hardware|98|accept
+by 8|98|reject
+measures approximately|98|reject
+in diameter|98|reject
+folding table|97|accept
+table chair|97|reject
+000 btu|97|reject
+coffee table|96|accept
+x 16|95|reject
+cubic feet|95|accept
+sheet set|95|reject
+stage snow|94|reject
+by 24|94|reject
+snow joe|93|reject
+x 13|93|reject
+x 15|92|reject
+snow shovel|92|accept
+in china|91|reject
+home garden|90|accept
+feet by|90|reject
+made in china|89|accept
+x 20|89|reject
+no tools|88|reject
+american standard|88|accept
+inches long by|88|reject
+satisfaction guaranteed|88|accept
+chrome finish|87|accept
+table chair set|87|accept
+width x|87|reject
+wall decal|87|accept
+polished chrome|86|accept
+easy assemble|86|accept
+comforter set|86|accept
+cabinet hardware|85|accept
+by 6|85|reject
+amp electric|85|reject
+gifts decor|85|reject
+has been|85|reject
+m d|84|reject
+one size|84|accept
+tool set|84|accept
+wall mounted|84|accept
+energy star|83|accept
+flash furniture|83|accept
+solid brass|83|accept
+motion sensor|82|accept
+gentle cycle|82|accept
+by 7|82|reject
+living room|82|accept
+paper holder|82|accept
+replacement parts|81|accept
+accessories veranda|81|reject
+m t|81|reject
+winsome wood|81|reject
+in bag|81|reject
+m t tech|81|reject
+classic accessories veranda|81|reject
+t tech|81|reject
+inch w|81|reject
+by 30 inch|80|reject
+easy storage|80|accept
+easy set|80|reject
+metal detector|80|accept
+in california|80|reject
+above ground|80|accept
+by 9|80|reject
+building products|80|accept
+white finish|79|reject
+d building|79|reject
+m d building products|79|reject
+antique bronze|79|accept
+m d building|79|reject
+d building products|79|reject
+inch deep|78|reject
+sale in california|78|reject
+assorted colors|78|accept
+surveillance camera|77|accept
+all music|831|reject
+guaranteed authentic|831|accept
+music products properly licensed|829|reject
+products properly|829|reject
+music products|829|reject
+licensed guaranteed authentic|829|reject
+music products properly|829|reject
+all music products properly licensed|829|reject
+products properly licensed guaranteed|829|reject
+properly licensed|829|reject
+all music products properly|829|reject
+properly licensed guaranteed|829|reject
+properly licensed guaranteed authentic|829|reject
+licensed guaranteed|829|reject
+products properly licensed|829|reject
+book 1|759|reject
+wheel cover|628|accept
+tire pressure|617|accept
+original equipment|596|accept
+off road|500|accept
+pressure gauge|396|accept
+part number|393|accept
+repair kit|392|accept
+steering wheel cover|366|accept
+car truck|355|reject
+valve stem|344|accept
+tire valve|332|accept
+tire gauge|331|accept
+pack 4|328|reject
+windshield washer|319|accept
+lug nuts|313|accept
+custom fit|309|accept
+tire pressure gauge|304|accept
+truck suv|300|reject
+license plate|293|accept
+thread size|291|accept
+series book|277|reject
+wheel bearing|274|accept
+digital tire|271|reject

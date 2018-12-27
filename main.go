@@ -3,6 +3,7 @@ package main
 import (
 	"bufio"
 	"fmt"
+	"io/ioutil"
 	"log"
 	"os"
 	"sort"
@@ -12,8 +13,6 @@ import (
 	valid "github.com/asaskevich/govalidator"
 	"github.com/euskadi31/go-tokenizer"
 )
-
-// stopwords: with, for, and,
 
 type KeyValue struct {
 	Key   string
@@ -106,19 +105,8 @@ func readStopWords(fileName string) map[string]int {
 	return stopwords
 }
 
-type Product map[string]string
-
-// Data can be found https://github.com/dariusk/corpora/tree/master/data
-// String tokenizer https://blog.gopheracademy.com/advent-2017/lexmachine-advent/
-func main() {
-	knownPhrases := readKnownPhrases("phrases.txt")
-
-	stopwords := readStopWords("stopwords.txt")
-
-	t := tokenizer.NewWithSeparator("\t\n\r ,.:?\"!;()\\/\\-\\+\\&")
-	phrases := make(map[string]int)
-
-	file, err := os.Open("dataset.txt")
+func processDataSet(fileName string, phrases map[string]int, stopwords map[string]int, t tokenizer.Tokenizer) {
+	file, err := os.Open(fileName)
 	if err != nil {
 		log.Fatal(err)
 	}
@@ -153,6 +141,28 @@ func main() {
 
 	if err := scanner.Err(); err != nil {
 		log.Fatal(err)
+	}
+}
+
+type Product map[string]string
+
+// Data can be found https://github.com/dariusk/corpora/tree/master/data
+// String tokenizer https://blog.gopheracademy.com/advent-2017/lexmachine-advent/
+// Amazon training datasets https://github.com/SamTube405/Amazon-E-commerce-Data-set
+func main() {
+	knownPhrases := readKnownPhrases("phrases.txt")
+
+	stopwords := readStopWords("stopwords.txt")
+
+	t := tokenizer.NewWithSeparator("\t\n\r ,.:?\"!;()\\/\\-\\+\\&")
+	phrases := make(map[string]int)
+
+	files, err := ioutil.ReadDir("./")
+	for _, f := range files {
+		if strings.HasPrefix(f.Name(), "dataset") {
+			fmt.Printf("Processing %s...\n", f.Name())
+			processDataSet("./"+f.Name(), phrases, stopwords, t)
+		}
 	}
 
 	var ss []KeyValue
