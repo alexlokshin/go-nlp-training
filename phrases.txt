@@ -2601,3 +2601,144 @@ custom made|109|accept
 length x|109|reject
 steering fluid|108|accept
 big book|108|accept
+100% money|110|reject
+in 2|108|reject
+abs plastic|108|accept
+mopar oem|108|reject
+atv utv|107|reject
+thread repair|107|reject
+meet exceed|107|reject
+at home|107|reject
+light lamp|106|reject
+glass lens|106|reject
+replacement starter|106|reject
+truck car|106|reject
+ram 1500|106|reject
+climate control|106|accept
+100% money back|106|accept
+wheel chock|106|reject
+sewn in|106|reject
+engine oil|105|accept
+more flexible|105|reject
+tire valve stem caps|105|accept
+designed keep|105|reject
+100% brand|105|reject
+passenger car|105|accept
+100% brand new|105|accept
+polar white|105|accept
+x 17|105|reject
+meets exceeds|105|reject
+seat cover|105|accept
+box set|105|accept
+honda civic|105|accept
+belt more|105|reject
+grand cherokee|105|accept
+shut off|105|accept
+power steering fluid|105|accept
+wheel lug nuts|104|accept
+seal kit 25|104|reject
+air freshener|104|accept
+size fits|104|reject
+rear wheel|104|accept
+that lasts|104|reject
+dust shield|104|accept
+bearing seal kit 25|104|reject
+make money|103|reject
+inch 1|103|reject
+used on|103|reject
+sun shade|103|accept
+system cleaner|103|accept
+in belt|103|reject
+out water|103|reject
+harley davidson|103|accept
+that lasts considerably longer|102|reject
+lasts considerably longer than comparable belts|102|reject
+gatorback poly v|102|reject
+poly v belts|102|reject
+lasts considerably longer than|102|reject
+inch long|102|reject
+run cooler resulting|102|reject
+belt more flexible|102|reject
+belt more flexible run|102|reject
+flexible run cooler resulting|102|reject
+run cooler resulting in|102|reject
+run cooler|102|reject
+cooler resulting|102|reject
+cooler resulting in|102|reject
+cooler resulting in belt|102|reject
+gatorback poly v belts|102|reject
+quiet channel technology also|102|reject
+poly v|102|reject
+than comparable|102|reject
+gatorback poly|102|reject
+longer than comparable|102|reject
+quiet channel technology also makes|102|reject
+lasts considerably|102|reject
+in belt that lasts considerably|102|reject
+water dirt|102|reject
+makes belt more flexible|102|reject
+also makes belt more|102|reject
+wheel bearing seal kit 25|102|reject
+channel technology also|102|reject
+lasts considerably longer than comparable|102|reject
+channel technology|102|reject
+silver replica|102|reject
+so it|102|reject
+also makes belt more flexible|102|reject
+flexible run cooler|102|reject
+regulator motor|102|reject
+more flexible run cooler|102|reject
+considerably longer than comparable belts|102|reject
+that lasts considerably longer than comparable|102|reject
+quiet channel technology|102|reject
+flexible run cooler resulting in|102|reject
+quiet channel|102|reject
+run cooler resulting in belt|102|reject
+belt that lasts considerably longer|102|reject
+that lasts considerably longer than|102|reject
+belt that lasts|102|reject
+considerably longer than comparable|102|reject
+technology also|102|reject
+that lasts considerably|102|reject
+resulting in belt|102|reject
+comparable belts|102|reject
+book 3|102|reject
+considerably longer|102|reject
+also makes belt|102|reject
+lasts considerably longer|102|reject
+more flexible run|102|reject
+belt that lasts considerably longer than|102|reject
+5x4 5|102|reject
+makes belt more|102|reject
+resulting in belt that|102|reject
+channel technology also makes|102|reject
+belt that lasts considerably|102|reject
+belt more flexible run cooler|102|reject
+resulting in belt that lasts|102|reject
+longer than comparable belts|102|reject
+technology also makes|102|reject
+technology also makes belt|102|reject
+channel technology also makes belt|102|reject
+than comparable belts|102|reject
+in belt that|102|reject
+more flexible run cooler resulting|102|reject
+considerably longer than|102|reject
+technology also makes belt more|102|reject
+makes belt|102|reject
+cooler resulting in belt that|102|reject
+flexible run|102|reject
+v belts|102|reject
+in belt that lasts|102|reject
+make sure|101|reject
+oxygen sensor|101|accept
+mounting bracket|101|accept
+keep out water|101|reject
+thread repair kit|101|accept
+included in|100|reject
+k n|100|reject
+power inverter|100|accept
+tools required|100|reject
+grille guard|100|accept
+mud flaps|100|accept
+digital tire pressure|99|accept
+air conditioning|99|accept
