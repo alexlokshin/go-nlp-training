@@ -2742,3 +2742,105 @@ grille guard|100|accept
 mud flaps|100|accept
 digital tire pressure|99|accept
 air conditioning|99|accept
+belt that|102|reject
+in pairs|99|reject
+silver replica wheel cover|99|reject
+measure 1|99|reject
+side replacement|99|reject
+alignment tool|99|accept
+fit car|99|reject
+based on|99|reject
+bolt on|99|reject
+silver replica wheel cover set|99|reject
+fox racing|99|reject
+silver replica wheel|99|reject
+sold in pairs|98|reject
+seals specifically designed keep|98|reject
+wheel seals specifically designed|98|reject
+balls wheel bearing|98|reject
+specifically designed keep out|98|reject
+tc nitrile elastomer|98|reject
+all balls wheel|98|reject
+elastomer wheel seals specifically designed|98|reject
+tc nitrile elastomer wheel|98|reject
+specifically designed keep out water|98|reject
+out water dirt|98|reject
+seals specifically|98|reject
+elastomer wheel seals|98|reject
+street bike|98|accept
+wheel seals specifically|98|reject
+specifically designed keep|98|reject
+keyless entry|98|accept
+car snow|98|reject
+note that|98|reject
+elastomer wheel|98|reject
+nitrile elastomer|98|reject
+type tc nitrile|98|reject
+type tc|98|reject
+all balls wheel bearing|98|reject
+type tc nitrile elastomer wheel seals|98|reject
+balls wheel|98|reject
+designed keep out|98|reject
+nitrile elastomer wheel seals|98|reject
+seals specifically designed|98|reject
+wheel seals|98|reject
+elastomer wheel seals specifically|98|reject
+keep out water dirt|98|reject
+nitrile elastomer wheel|98|reject
+fuel cap|98|accept
+bulge acorn|98|reject
+tc nitrile|98|reject
+ignition coil|98|accept
+type tc nitrile elastomer wheel|98|reject
+designed keep out water|98|reject
+tc nitrile elastomer wheel seals|98|reject
+nitrile elastomer wheel seals specifically|98|reject
+powder coated|97|accept
+truck tire|97|accept
+snow chain|97|accept
+unit measure|97|accept
+digital tire pressure gauge|97|accept
+tire traction|97|accept
+engine cooling|97|accept
+impact wrench|97|accept
+unit measure 1|97|reject
+decal sticker|96|accept
+rubber tire|96|accept
+multi color|96|accept
+please check|96|reject
+chain set|96|reject
+cars trucks|96|reject
+lose weight|96|reject
+in place|96|reject
+remote start|96|accept
+type tc nitrile elastomer|98|reject
+oem replacement|96|reject
+door handle|96|accept
+air flow|96|accept
+grab handle|95|accept
+per pack|95|reject
+light bulbs|95|accept
+extra long|95|accept
+please contact us|94|reject
+premium dpaccessories|94|reject
+motor design|94|reject
+balls wheel bearing seal kit|94|reject
+balls wheel bearing seal|94|reject
+all balls wheel bearing seal|94|reject
+tire size|94|reject
+video game|94|accept
+electric motor|94|accept
+easy read|93|accept
+window regulator motor|93|accept
+use only|93|reject
+dodge ram 1500|93|accept
+tire wheel|93|reject
+touch up|93|accept
+atd tools|93|reject
+chain set 2|93|reject
+warranty against|93|reject
+weight loss|93|accept
+natural rubber|93|accept
+accutire ms|93|reject
+commercial grade|92|accept
+automatic transmission fluid|92|accept
