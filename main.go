@@ -169,6 +169,11 @@ func processDataSet(fileName string, phrases map[string]int, stopwords map[strin
 	}
 }
 
+func process(str string, t tokenizer.Tokenizer) string {
+	tokens := tokenize(t, str)
+	return strings.Join(tokens, " ")
+}
+
 type Product map[string]string
 
 // Data can be found https://github.com/dariusk/corpora/tree/master/data
@@ -208,6 +213,19 @@ func main() {
 	}
 
 	defer f.Close()
+
+	values, err := readValueList("./attributes/brand.yml")
+	if err == nil {
+		for value := range values {
+			_, present := knownPhrases[value]
+			if present {
+				continue
+			}
+			processed := process(value, t)
+			fmt.Printf("%s\n", processed)
+			f.WriteString(fmt.Sprintf("%s|%d|accept\n", value, 0))
+		}
+	}
 
 	for _, kv := range ss {
 		_, present := knownPhrases[kv.Key]
