@@ -9066,3 +9066,981 @@ simply orange|0|accept
 ursec|0|accept
 hunt|0|accept
 norwood|0|accept
+black olive|0|accept
+lavender rose|0|accept
+light cornflower blue|0|accept
+persian pink|0|accept
+tea green|0|accept
+antique white|0|accept
+bitter lemon|0|accept
+egyptian blue|0|accept
+fire engine red|0|accept
+misty rose|0|accept
+persian orange|0|accept
+peru|0|accept
+café noir|0|accept
+illuminating emerald|0|accept
+vanilla|0|accept
+blond|0|accept
+light salmon pink|0|accept
+pale green|0|accept
+pale turquoise|0|accept
+smoky black|0|accept
+wood brown|0|accept
+xanadu|0|accept
+cadmium red|0|accept
+heart gold|0|accept
+la salle green|0|accept
+mango tango|0|accept
+old mauve|0|accept
+ruddy pink|0|accept
+sunset orange|0|accept
+antique ruby|0|accept
+dark tangerine|0|accept
+deep cerise|0|accept
+english lavender|0|accept
+english violet|0|accept
+granny smith apple|0|accept
+pastel blue|0|accept
+lemon|0|accept
+mint cream|0|accept
+chinese violet|0|accept
+waterspout|0|accept
+blizzard blue|0|accept
+burlywood|0|accept
+deep moss green|0|accept
+irresistible|0|accept
+lavender blue|0|accept
+tea rose|0|accept
+wild strawberry|0|accept
+sunglow|0|accept
+amaranth purple|0|accept
+barn red|0|accept
+french raspberry|0|accept
+generic viridian|0|accept
+pearl aqua|0|accept
+rufous|0|accept
+spanish crimson|0|accept
+carrot orange|0|accept
+fuchsia|0|accept
+gold fusion|0|accept
+light coral|0|accept
+north texas green|0|accept
+up forest green|0|accept
+citron|0|accept
+mughal green|0|accept
+old heliotrope|0|accept
+orchid pink|0|accept
+pictorial carmine|0|accept
+rosewood|0|accept
+scarlet|0|accept
+yellow rose|0|accept
+b"dazzled blue|0|accept
+bud green|0|accept
+pakistan green|0|accept
+ubea|0|accept
+folly|0|accept
+light slate gray|0|accept
+mikado yellow|0|accept
+usc gold|0|accept
+deep saffron|0|accept
+moccasin|0|accept
+spanish pink|0|accept
+viridian|0|accept
+bright navy blue|0|accept
+cornsilk|0|accept
+spanish red|0|accept
+brilliant lavender|0|accept
+carmine|0|accept
+light blue|0|accept
+pale aqua|0|accept
+rich maroon|0|accept
+soap|0|accept
+blush|0|accept
+burnt sienna|0|accept
+dark magenta|0|accept
+deer|0|accept
+lavender|0|accept
+pear|0|accept
+saffron|0|accept
+ferrari red|0|accept
+fuchsia purple|0|accept
+tan|0|accept
+baby pink|0|accept
+dark violet|0|accept
+jordy blue|0|accept
+pastel pink|0|accept
+timberwolf|0|accept
+venetian red|0|accept
+vivid cerise|0|accept
+arylide yellow|0|accept
+mordant red 19|0|accept
+peach puff|0|accept
+african violet|0|accept
+deep magenta|0|accept
+drab|0|accept
+rose bonbon|0|accept
+warm black|0|accept
+kenyan copper|0|accept
+lemon meringue|0|accept
+prussian blue|0|accept
+spanish carmine|0|accept
+wild orchid|0|accept
+indian red|0|accept
+papaya whip|0|accept
+spanish blue|0|accept
+anti-flash white|0|accept
+medium sky blue|0|accept
+midnight green|0|accept
+rajah|0|accept
+banana yellow|0|accept
+medium vermilion|0|accept
+rifle green|0|accept
+bistre|0|accept
+deep champagne|0|accept
+electric yellow|0|accept
+silver sand|0|accept
+up maroon|0|accept
+deep carmine pink|0|accept
+deep jungle green|0|accept
+grizzly|0|accept
+livid|0|accept
+persimmon|0|accept
+ua red|0|accept
+dark lava|0|accept
+dark pastel blue|0|accept
+arsenic|0|accept
+bronze yellow|0|accept
+light sky blue|0|accept
+prune|0|accept
+ucla blue|0|accept
+bright turquoise|0|accept
+cadet|0|accept
+deep coffee|0|accept
+electric lavender|0|accept
+firebrick|0|accept
+giants orange|0|accept
+peach-orange|0|accept
+deep puce|0|accept
+denim|0|accept
+feldgrau|0|accept
+pansy purple|0|accept
+rose red|0|accept
+space cadet|0|accept
+super pink|0|accept
+tangerine|0|accept
+candy apple red|0|accept
+caribbean green|0|accept
+fluorescent orange|0|accept
+harvard crimson|0|accept
+navy|0|accept
+outer space|0|accept
+quinacridone magenta|0|accept
+ku crimson|0|accept
+office green|0|accept
+phthalo blue|0|accept
+spring green|0|accept
+byzantium|0|accept
+dark blue|0|accept
+seal brown|0|accept
+tenné|0|accept
+turkish rose|0|accept
+bole|0|accept
+brick red|0|accept
+medium aquamarine|0|accept
+neon green|0|accept
+old lace|0|accept
+dark powder blue|0|accept
+deep mauve|0|accept
+coquelicot|0|accept
+dark olive green|0|accept
+eerie black|0|accept
+japanese violet|0|accept
+smoky topaz|0|accept
+spanish viridian|0|accept
+pale magenta|0|accept
+jonquil|0|accept
+medium orchid|0|accept
+pale brown|0|accept
+payne"s grey|0|accept
+twilight lavender|0|accept
+cerulean blue|0|accept
+cocoa brown|0|accept
+verdigris|0|accept
+dark spring green|0|accept
+spanish green|0|accept
+buff|0|accept
+cinnabar|0|accept
+mauve taupe|0|accept
+solid pink|0|accept
+spartan crimson|0|accept
+hooker"s green|0|accept
+deep peach|0|accept
+electric purple|0|accept
+purple pizzazz|0|accept
+halayà úbe|0|accept
+light fuchsia pink|0|accept
+rubine red|0|accept
+bitter lime|0|accept
+fluorescent yellow|0|accept
+beau blue|0|accept
+ocean boat blue|0|accept
+aurometalsaurus|0|accept
+baby blue|0|accept
+cameo pink|0|accept
+pearl|0|accept
+deep tuscan red|0|accept
+eucalyptus|0|accept
+independence|0|accept
+teal deer|0|accept
+fuchsia pink|0|accept
+icterine|0|accept
+palatinate purple|0|accept
+fulvous|0|accept
+hunter green|0|accept
+lemon lime|0|accept
+spanish bistre|0|accept
+taupe gray|0|accept
+tiger"s eye|0|accept
+almond|0|accept
+blue sapphire|0|accept
+columbia blue|0|accept
+medium turquoise|0|accept
+old burgundy|0|accept
+orioles orange|0|accept
+dark pastel red|0|accept
+medium persian blue|0|accept
+persian rose|0|accept
+pink lavender|0|accept
+pomp and power|0|accept
+strawberry|0|accept
+bubble gum|0|accept
+moonstone blue|0|accept
+orchid|0|accept
+popstar|0|accept
+castleton green|0|accept
+rich lavender|0|accept
+true blue|0|accept
+dark slate gray|0|accept
+donkey brown|0|accept
+razzle dazzle rose|0|accept
+red-violet|0|accept
+islamic green|0|accept
+new york pink|0|accept
+paolo veronese green|0|accept
+patriarch|0|accept
+puce|0|accept
+cool grey|0|accept
+ochre|0|accept
+wild blue yonder|0|accept
+blue-violet|0|accept
+electric violet|0|accept
+rose gol|0|accept
+sap green|0|accept
+titanium yellow|0|accept
+wild watermelon|0|accept
+android green|0|accept
+cambridge blue|0|accept
+sapphire|0|accept
+light deep pink|0|accept
+orange peel|0|accept
+pale cerulean|0|accept
+vivid burgundy|0|accept
+french violet|0|accept
+rosso corsa|0|accept
+deep chestnut|0|accept
+ginger|0|accept
+neon carrot|0|accept
+raspberry glace|0|accept
+schauss pink|0|accept
+carmine pink|0|accept
+gamboge|0|accept
+sandstorm|0|accept
+slate blue|0|accept
+deep carrot orange|0|accept
+earth yellow|0|accept
+mauvelous|0|accept
+moss green|0|accept
+carnelian|0|accept
+glaucous|0|accept
+grape|0|accept
+cerise pink|0|accept
+dutch white|0|accept
+rackley|0|accept
+ecru|0|accept
+electric crimson|0|accept
+eminence|0|accept
+lilac|0|accept
+pastel brown|0|accept
+pastel red|0|accept
+shimmering blush|0|accept
+cadmium orange|0|accept
+little boy blue|0|accept
+olive drab|0|accept
+powder blue|0|accept
+cadmium green|0|accept
+flame|0|accept
+amber|0|accept
+blue-gray|0|accept
+lapis lazuli|0|accept
+laurel green|0|accept
+light green|0|accept
+mulberry|0|accept
+barbie pink|0|accept
+paris green|0|accept
+deep fuchsia|0|accept
+magenta|0|accept
+magnolia|0|accept
+mint green|0|accept
+sandy taupe|0|accept
+cerulean frost|0|accept
+citrine|0|accept
+daffodil|0|accept
+electric indigo|0|accept
+royal fuchsia|0|accept
+sky blue|0|accept
+bluebonnet|0|accept
+bright lavender|0|accept
+cosmic latte|0|accept
+dark orchid|0|accept
+violet-blue|0|accept
+dark orange|0|accept
+dartmouth green|0|accept
+light medium orchid|0|accept
+pale copper|0|accept
+byzantine|0|accept
+french lime|0|accept
+lavender blush|0|accept
+mellow yellow|0|accept
+sinopia|0|accept
+sonic silver|0|accept
+tango pink|0|accept
+dark candy apple red|0|accept
+hollywood cerise|0|accept
+light pink|0|accept
+fawn|0|accept
+pale pink|0|accept
+silver chalice|0|accept
+flavescent|0|accept
+phthalo green|0|accept
+bright lilac|0|accept
+bubbles|0|accept
+dark liver|0|accept
+liver|0|accept
+camouflage green|0|accept
+golden poppy|0|accept
+indian yellow|0|accept
+pastel gray|0|accept
+ruber|0|accept
+aero|0|accept
+light khaki|0|accept
+silver lake blue|0|accept
+dark blue-gray|0|accept
+dark imperial blue|0|accept
+dark tan|0|accept
+fresh air|0|accept
+imperial purple|0|accept
+mexican pink|0|accept
+red-orange|0|accept
+celeste|0|accept
+malachite|0|accept
+deep ruby|0|accept
+pale cornflower blue|0|accept
+star command blue|0|accept
+electric lime|0|accept
+napier green|0|accept
+pale lavender|0|accept
+seashell|0|accept
+medium tuscan red|0|accept
+pearly purple|0|accept
+sand dune|0|accept
+amaranth pink|0|accept
+aquamarine|0|accept
+bottle green|0|accept
+dark yellow|0|accept
+mahogany|0|accept
+new car|0|accept
+screamin" green|0|accept
+han purple|0|accept
+electric green|0|accept
+spanish violet|0|accept
+carmine red|0|accept
+dark cerulean|0|accept
+dark turquoise|0|accept
+sea blue|0|accept
+honolulu blue|0|accept
+light salmon|0|accept
+ruby red|0|accept
+sea green|0|accept
+alabama crimson|0|accept
+ceil|0|accept
+charm pink|0|accept
+dark sienna|0|accept
+lemon glacier|0|accept
+mindaro|0|accept
+amaranth|0|accept
+light french beige|0|accept
+pullman brown|0|accept
+rocket metallic|0|accept
+sepia|0|accept
+boston university red|0|accept
+carolina blue|0|accept
+crimson|0|accept
+india green|0|accept
+jungle green|0|accept
+dark salmon|0|accept
+shampoo|0|accept
+teal green|0|accept
+wenge|0|accept
+wheat|0|accept
+antique fuchsia|0|accept
+japanese carmine|0|accept
+alloy orange|0|accept
+liver chestnut|0|accept
+rich black|0|accept
+aqua|0|accept
+crimson glory|0|accept
+debian red|0|accept
+purple taupe|0|accept
+big dip o’ruby|0|accept
+burnt umber|0|accept
+coral pink|0|accept
+deep lemon|0|accept
+ball blue|0|accept
+black leather jacket|0|accept
+british racing green|0|accept
+deep pink|0|accept
+liseran purple|0|accept
+avocado|0|accept
+blue bell|0|accept
+caput mortuum|0|accept
+french fuchsia|0|accept
+neon fuchsia|0|accept
+french mauve|0|accept
+medium electric blue|0|accept
+ruby|0|accept
+shocking pink|0|accept
+spanish gray|0|accept
+vivid sky blue|0|accept
+licorice|0|accept
+tuscan red|0|accept
+cadet blue|0|accept
+dark gray|0|accept
+dark sea green|0|accept
+dollar bill|0|accept
+milky blue|0|accept
+ebony|0|accept
+light yellow|0|accept
+pale silver|0|accept
+blanched almond|0|accept
+champagne|0|accept
+dark red|0|accept
+hot magenta|0|accept
+usafa blue|0|accept
+beige|0|accept
+bright maroon|0|accept
+cinereous|0|accept
+pale carmine|0|accept
+rich carmine|0|accept
+windsor tan|0|accept
+light hot pink|0|accept
+gray-asparagus|0|accept
+mountain meadow|0|accept
+russet|0|accept
+cornflower blue|0|accept
+harlequin|0|accept
+bright ube|0|accept
+light sea green|0|accept
+purple navy|0|accept
+limerick|0|accept
+sand|0|accept
+skobeloff|0|accept
+copper red|0|accept
+coral|0|accept
+light carmine pink|0|accept
+vista blue|0|accept
+china rose|0|accept
+coconut|0|accept
+dogwood rose|0|accept
+russian green|0|accept
+dark pastel purple|0|accept
+melon|0|accept
+chamoisee|0|accept
+lemon yellow|0|accept
+pale blue|0|accept
+toolbox|0|accept
+heliotrope|0|accept
+light orchid|0|accept
+pale spring bud|0|accept
+quartz|0|accept
+dark sky blue|0|accept
+medium candy apple red|0|accept
+ou crimson red|0|accept
+tulip|0|accept
+blue yonder|0|accept
+charleston green|0|accept
+cream|0|accept
+french bistre|0|accept
+lavender mist|0|accept
+spanish sky blue|0|accept
+cal poly pomona green|0|accept
+corn|0|accept
+turquoise blue|0|accept
+guppie green|0|accept
+kelly green|0|accept
+old silver|0|accept
+pistachio|0|accept
+yellow-green|0|accept
+bazaar|0|accept
+brilliant rose|0|accept
+cordovan|0|accept
+pine green|0|accept
+medium sea green|0|accept
+nadeshiko pink|0|accept
+non-photo blue|0|accept
+antique brass|0|accept
+pastel yellow|0|accept
+raspberry pink|0|accept
+sky magenta|0|accept
+unmellow yellow|0|accept
+china pink|0|accept
+dark scarlet|0|accept
+imperial|0|accept
+lime green|0|accept
+air superiority blue|0|accept
+ao|0|accept
+bisque|0|accept
+café au lait|0|accept
+st. patrick"s blue|0|accept
+turquoise green|0|accept
+umber|0|accept
+copper rose|0|accept
+mint|0|accept
+slate gray|0|accept
+ultramarine|0|accept
+dark electric blue|0|accept
+golden brown|0|accept
+naples yellow|0|accept
+jasmine|0|accept
+light crimson|0|accept
+light steel blue|0|accept
+medium blue|0|accept
+pale taupe|0|accept
+acid green|0|accept
+desert sand|0|accept
+razzmatazz|0|accept
+terra cotta|0|accept
+lumber|0|accept
+metallic seaweed|0|accept
+portland orange|0|accept
+medium lavender magenta|0|accept
+mountbatten pink|0|accept
+usc cardinal|0|accept
+battleship grey|0|accept
+raw umber|0|accept
+sandy brown|0|accept
+vivid auburn|0|accept
+cobalt|0|accept
+lavender indigo|0|accept
+tomato|0|accept
+tractor red|0|accept
+asparagus|0|accept
+msu green|0|accept
+bulgarian rose|0|accept
+copper penny|0|accept
+dark brown|0|accept
+keppel|0|accept
+medium red-violet|0|accept
+forest green|0|accept
+lavender magenta|0|accept
+liberty|0|accept
+maize|0|accept
+pastel purple|0|accept
+raspberry|0|accept
+sunset|0|accept
+cadmium yellow|0|accept
+orange-red|0|accept
+thulian pink|0|accept
+ultramarine blue|0|accept
+vermilion|0|accept
+claret|0|accept
+purple mountain majesty|0|accept
+unbleached silk|0|accept
+vivid orchid|0|accept
+zinnwaldite brown|0|accept
+alizarin crimson|0|accept
+chartreuse|0|accept
+pumpkin|0|accept
+wisteria|0|accept
+bright pink|0|accept
+brunswick green|0|accept
+mode beige|0|accept
+cerulean|0|accept
+desire|0|accept
+dim gray|0|accept
+aero blue|0|accept
+lust|0|accept
+peach|0|accept
+rich lilac|0|accept
+tumblr|0|accept
+cadet grey|0|accept
+telemagenta|0|accept
+aureolin|0|accept
+chestnut|0|accept
+french sky blue|0|accept
+red-purple|0|accept
+resolution blue|0|accept
+willpower orange|0|accept
+apricot|0|accept
+bright cerulean|0|accept
+celadon green|0|accept
+international klein blue|0|accept
+lavender purple|0|accept
+picton blue|0|accept
+sunray|0|accept
+chrome yellow|0|accept
+light pastel purple|0|accept
+roast coffee|0|accept
+smalt|0|accept
+brink pink|0|accept
+cg blue|0|accept
+dark moss green|0|accept
+deep space sparkle|0|accept
+jasper|0|accept
+meat brown|0|accept
+royal blue|0|accept
+sheen green|0|accept
+amethyst|0|accept
+charcoal|0|accept
+cyan|0|accept
+dark midnight blue|0|accept
+pastel orange|0|accept
+pink lace|0|accept
+regalia|0|accept
+cyber grape|0|accept
+beaver|0|accept
+burnt orange|0|accept
+catawba|0|accept
+japanese indigo|0|accept
+taupe|0|accept
+lavender pink|0|accept
+medium carmine|0|accept
+raspberry rose|0|accept
+white smoke|0|accept
+fandango|0|accept
+imperial red|0|accept
+old moss green|0|accept
+queen blue|0|accept
+han blue|0|accept
+linen|0|accept
+persian red|0|accept
+french lilac|0|accept
+isabelline|0|accept
+field drab|0|accept
+old rose|0|accept
+robin egg blue|0|accept
+spanish orange|0|accept
+celadon|0|accept
+harvest gold|0|accept
+puce red|0|accept
+steel blue|0|accept
+wine dregs|0|accept
+camel|0|accept
+deep carmine|0|accept
+pastel magenta|0|accept
+pink-orange|0|accept
+trolley grey|0|accept
+alice blue|0|accept
+gray-blue|0|accept
+rich brilliant lavender|0|accept
+tiffany blue|0|accept
+yellow orange|0|accept
+otter brown|0|accept
+persian green|0|accept
+dark raspberry|0|accept
+flamingo pink|0|accept
+candy pink|0|accept
+eton blue|0|accept
+kobi|0|accept
+rosy brown|0|accept
+dark pink|0|accept
+dark vanilla|0|accept
+flattery|0|accept
+olivine|0|accept
+tangerine yellow|0|accept
+apple green|0|accept
+azure|0|accept
+blueberry|0|accept
+paradise pink|0|accept
+bittersweet|0|accept
+dark medium gray|0|accept
+fallow|0|accept
+floral white|0|accept
+straw|0|accept
+sangria|0|accept
+tickle me pink|0|accept
+english green|0|accept
+dark taupe|0|accept
+dark terra cotta|0|accept
+deep lilac|0|accept
+light moss green|0|accept
+bright green|0|accept
+lemon curry|0|accept
+royal azure|0|accept
+french puce|0|accept
+light cyan|0|accept
+redwood|0|accept
+tuscan brown|0|accept
+azure mist/web|0|accept
+persian indigo|0|accept
+peridot|0|accept
+purpureus|0|accept
+dark puce|0|accept
+gainsboro|0|accept
+navy purple|0|accept
+rose quartz|0|accept
+dark slate blue|0|accept
+rose ebony|0|accept
+electric ultramarine|0|accept
+rose madder|0|accept
+salmon|0|accept
+yankees blue|0|accept
+dark byzantium|0|accept
+dodger blue|0|accept
+pale red-violet|0|accept
+vivid violet|0|accept
+catalina blue|0|accept
+dark coral|0|accept
+fluorescent pink|0|accept
+nyanza|0|accept
+rose pink|0|accept
+spiro disco ball|0|accept
+ua blue|0|accept
+chocolate|0|accept
+dust storm|0|accept
+honeydew|0|accept
+lavender gray|0|accept
+medium ruby|0|accept
+purple heart|0|accept
+tuscan|0|accept
+urobilin|0|accept
+yale blue|0|accept
+mardi gras|0|accept
+vegas gold|0|accept
+psychedelic purple|0|accept
+zaffre|0|accept
+zomp|0|accept
+canary yellow|0|accept
+steel pink|0|accept
+blue-green|0|accept
+pineapple|0|accept
+rich electric blue|0|accept
+tuscan tan|0|accept
+kombu green|0|accept
+royal yellow|0|accept
+safety orange|0|accept
+spring bud|0|accept
+cg red|0|accept
+tyrian purple|0|accept
+fuchsia rose|0|accept
+jade|0|accept
+pastel green|0|accept
+green-yellow|0|accept
+medium taupe|0|accept
+ruddy brown|0|accept
+baker-miller pink|0|accept
+dandelion|0|accept
+pale robin egg blue|0|accept
+radical red|0|accept
+brown-nose|0|accept
+light taupe|0|accept
+safety yellow|0|accept
+shamrock green|0|accept
+bangladesh green|0|accept
+capri|0|accept
+medium purple|0|accept
+pastel violet|0|accept
+shadow blue|0|accept
+stizza|0|accept
+black bean|0|accept
+majorelle blue|0|accept
+medium jungle green|0|accept
+medium spring bud|0|accept
+razzmic berry|0|accept
+pale violet-red|0|accept
+classic rose|0|accept
+fuzzy wuzzy|0|accept
+lemon chiffon|0|accept
+mauve|0|accept
+medium slate blue|0|accept
+medium spring green|0|accept
+medium violet-red|0|accept
+phlox|0|accept
+united nations blue|0|accept
+oxford blue|0|accept
+army green|0|accept
+blast-off bronze|0|accept
+bleu de france|0|accept
+carnation pink|0|accept
+eggshell|0|accept
+khaki|0|accept
+olive|0|accept
+periwinkle|0|accept
+celestial blue|0|accept
+light apricot|0|accept
+congo pink|0|accept
+indigo|0|accept
+dark jungle green|0|accept
+fashion fuchsia|0|accept
+french beige|0|accept
+violet|0|accept
+french plum|0|accept
+shadow|0|accept
+banana mania|0|accept
+cedar chest|0|accept
+magenta haze|0|accept
+sapphire blue|0|accept
+thistle|0|accept
+bittersweet shimmer|0|accept
+lime|0|accept
+onyx|0|accept
+burgundy|0|accept
+fern green|0|accept
+outrageous orange|0|accept
+piggy pink|0|accept
+salmon pink|0|accept
+ultra red|0|accept
+falu red|0|accept
+satin sheen gold|0|accept
+cherry blossom pink|0|accept
+cornell red|0|accept
+pale plum|0|accept
+stil de grain yellow|0|accept
+tumbleweed|0|accept
+veronica|0|accept
+duke blue|0|accept
+pale chestnut|0|accept
+pale gold|0|accept
+rust|0|accept
+tufts blue|0|accept
+turquoise|0|accept
+brandeis blue|0|accept
+cerise|0|accept
+persian blue|0|accept
+stormcloud|0|accept
+upsdell red|0|accept
+dark lavender|0|accept
+languid lavender|0|accept
+light brown|0|accept
+magic mint|0|accept
+rhythm|0|accept
+roman silver|0|accept
+dark cyan|0|accept
+dark pastel green|0|accept
+go green|0|accept
+heliotrope gray|0|accept
+may green|0|accept
+pink sherbet|0|accept
+bistre brown|0|accept
+dark chestnut|0|accept
+rose vale|0|accept
+ruddy|0|accept
+silver pink|0|accept
+french rose|0|accept
+laser lemon|0|accept
+opera mauve|0|accept
+persian plum|0|accept
+ucla gold|0|accept
+viridian green|0|accept
+baby blue eyes|0|accept
+bone|0|accept
+light thulian pink|0|accept
+dark green|0|accept
+metallic sunburst|0|accept
+french blue|0|accept
+grullo|0|accept
+red-brown|0|accept
+eggplant|0|accept
+electric cyan|0|accept
+june bud|0|accept
+light red ochre|0|accept
+manatee|0|accept
+navajo white|0|accept
+old lavender|0|accept
+ultra pink|0|accept
+utah crimson|0|accept
+cotton candy|0|accept
+desert|0|accept
+saddle brown|0|accept
+cyber yellow|0|accept
+english red|0|accept
+indigo dye|0|accept
+mellow apricot|0|accept
+teal blue|0|accept
+myrtle green|0|accept
+artichoke|0|accept
+deep taupe|0|accept
+fandango pink|0|accept
+golden yellow|0|accept
+italian sky blue|0|accept
+lawn green|0|accept
+light gray|0|accept
+queen pink|0|accept
+smitten|0|accept
+tropical rain forest|0|accept
+ufo green|0|accept
+jazzberry jam|0|accept
+light goldenrod yellow|0|accept
+maroon|0|accept
+medium champagne|0|accept
+midnight blue|0|accept
+princeton orange|0|accept
+cinnamon|0|accept
+dark khaki|0|accept
+rose|0|accept
+rusty red|0|accept
+french pink|0|accept
+russian violet|0|accept
+ghost white|0|accept
+violet-red|0|accept
+coral red|0|accept
+dark goldenrod|0|accept
+hansa yellow|0|accept
+lincoln green|0|accept
+mantis|0|accept
+sacramento state green|0|accept
+school bus yellow|0|accept
+imperial blue|0|accept
+smoke|0|accept
+atomic tangerine|0|accept
+chinese red|0|accept
+flax|0|accept
+pale goldenrod|0|accept
+peach-yellow|0|accept
+pink pearl|0|accept
+vivid tangerine|0|accept
+maya blue|0|accept
+rose taupe|0|accept
+sienna|0|accept
+boysenberry|0|accept
+deep sky blue|0|accept
+flirt|0|accept
+glitter|0|accept
+electric blue|0|accept
+feldspar|0|accept
+french wine|0|accept
+mustard|0|accept
+old gold|0|accept
+auburn|0|accept
+baby powder|0|accept
+palatinate blue|0|accept
+selective yellow|0|accept
+teal|0|accept
+vanilla ice|0|accept
+celadon blue|0|accept
+tangelo|0|accept
+davy"s grey|0|accept
+kobe|0|accept
+ash grey|0|accept
+bondi blue|0|accept
+inchworm|0|accept
