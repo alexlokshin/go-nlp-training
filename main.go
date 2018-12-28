@@ -174,6 +174,18 @@ func process(str string, t tokenizer.Tokenizer) string {
 	return strings.Join(tokens, " ")
 }
 
+func extractPhrases(knownPhrases map[string]int, stopwords map[string]int, t tokenizer.Tokenizer) {
+	test := "iView 3500STBII Multi-Function Digital Converter Box with Recording and Media Playback"
+	tokens := tokenize(t, test)
+	subPhrases := generatePhrases(stopwords, tokens, 6)
+	for phrase := range subPhrases {
+		v, present := knownPhrases[phrase]
+		if present {
+			fmt.Printf("Found: %s [%d] \n", phrase, v)
+		}
+	}
+}
+
 type Product map[string]string
 
 // Data can be found https://github.com/dariusk/corpora/tree/master/data
@@ -188,6 +200,9 @@ func main() {
 	}
 
 	t := tokenizer.NewWithSeparator("\t\n\r ,.:?\"!;()\\/\\-\\+\\&\\[\\]\\|\\*")
+
+	//os.Exit(2)
+
 	phrases := make(map[string]int)
 
 	files, err := ioutil.ReadDir("./")
@@ -197,6 +212,8 @@ func main() {
 			processDataSet("./"+f.Name(), phrases, stopwords, t)
 		}
 	}
+
+	extractPhrases(phrases, stopwords, t)
 
 	var ss []KeyValue
 	for k, v := range phrases {
@@ -214,7 +231,7 @@ func main() {
 
 	defer f.Close()
 
-	values, err := readValueList("./attributes/brand.yml")
+	/*values, err := readValueList("./attributes/brand.yml")
 	if err == nil {
 		for value := range values {
 			_, present := knownPhrases[value]
@@ -225,7 +242,7 @@ func main() {
 			fmt.Printf("%s\n", processed)
 			f.WriteString(fmt.Sprintf("%s|%d|accept\n", value, 0))
 		}
-	}
+	}*/
 
 	for _, kv := range ss {
 		_, present := knownPhrases[kv.Key]
@@ -233,7 +250,7 @@ func main() {
 			continue
 		}
 
-		fmt.Printf("%s?\n", kv.Key)
+		fmt.Printf("%s [%d]?\n", kv.Key, kv.Value)
 		var input string
 		fmt.Scanln(&input)
 

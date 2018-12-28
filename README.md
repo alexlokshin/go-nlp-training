@@ -14,3 +14,11 @@ End product is supposed to have the following qualities:
 * Kubernetes native
 
 For now, I'm using a data set of 6 major categories from amazon.com to have the phrase training done. This might take a while, but I do have a plenty of time.
+
+## Lessons learned
+* Do you know your data? Start by extracting phrases from you indexed data. Then index the phrases instead of the raw keywords.
+* Be ready to go through a lot of data
+* Stopwords are evil. What is a stopword here, might be important there. Doing a blanket stopword ban is not a prudent solution.
+* Process your raw data and incoming search queries the same. 
+* Extract phrases from incoming search queries and create aliasing with your raw data phrases.
+* Incoming query, just like source data, can be broken up a number of ways. Retain all meaningful sub-phrases and index them.
